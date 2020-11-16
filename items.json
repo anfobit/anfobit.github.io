@@ -237,7 +237,7 @@
     ]
   },
   {
-    "uuid": "",
+    "uuid": "14",
     "category": "t",
     "name": "\"Freedom\"",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Teachings_of_%22Freedom%22.png",
@@ -251,7 +251,7 @@
     ]
   },
   {
-    "uuid": "",
+    "uuid": "15",
     "category": "t",
     "name": "\"Resistance\"",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Item_Guide_to_%22Resistance%22.png",
@@ -265,7 +265,7 @@
     ]
   },
   {
-    "uuid": "",
+    "uuid": "16",
     "category": "t",
     "name": "\"Ballad\"",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Item_Guide_to_%22Ballad%22.png",
@@ -278,7 +278,7 @@
       ] 
   },
   {
-    "uuid": "",
+    "uuid": "17",
     "category": "t",
     "name": "\"Prosperity\"",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Item_Guide_to_%22Prosperity%22.png",
@@ -291,7 +291,7 @@
       ] 
   },
   {
-    "uuid": "",
+    "uuid": "18",
     "category": "t",
     "name": "\"Diligence\"",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/Item_Guide_to_%22Diligence%22.png",
@@ -305,7 +305,7 @@
       ] 
   },
   {
-    "uuid": "",
+    "uuid": "19",
     "category": "t",
     "name": "\"Gold\"",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Item_Guide_to_%22Gold%22.png",
@@ -318,7 +318,7 @@
       ] 
   },
   {
-    "uuid": "",
+    "uuid": "20",
     "category": "t",
     "name": "Tail of Boreas",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/66/Item_Tail_of_Boreas.png",
@@ -333,7 +333,7 @@
       ] 
   },
   {
-    "uuid": "",
+    "uuid": "21",
     "category": "t",
     "name": "Ring of Boreas",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Item_Ring_of_Boreas.png",
@@ -348,7 +348,7 @@
       ] 
   },
   {
-    "uuid": "",
+    "uuid": "22",
     "category": "t",
     "name": "Spirit Locket of Boreas",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/Item_Spirit_Locket_of_Boreas.png",
@@ -363,7 +363,7 @@
       ] 
   },
   {
-    "uuid": "",
+    "uuid": "23",
     "category": "t",
     "name": "Dvalin's Plume",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Item_Dvalin%27s_Plume.png",
@@ -378,7 +378,7 @@
       ] 
   },
   {
-    "uuid": "",
+    "uuid": "24",
     "category": "t",
     "name": "Dvalin's Claw",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Item_Dvalin%27s_Claw.png",
@@ -393,7 +393,7 @@
       ] 
   },
   {
-    "uuid": "",
+    "uuid": "25",
     "category": "t",
     "name": "Dvalin's Sigh",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Dvalin%27s_Sigh.png",
@@ -408,7 +408,7 @@
       ] 
   },
   {
-    "uuid": "",
+    "uuid": "26",
     "category": "t",
     "name": "Tusk of Monoceros Caeli",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Item_Tusk_of_Monoceros_Caeli.png",
@@ -424,7 +424,7 @@
   },
   
   {
-    "uuid": "",
+    "uuid": "27",
     "category": "t",
     "name": "Shard of a Foul Legacy",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Item_Shard_of_a_Foul_Legacy.png",
@@ -439,7 +439,7 @@
       ] 
   },
   {
-    "uuid": "",
+    "uuid": "28",
     "category": "t",
     "name": "Shadow of the Warrior",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Item_Shadow_of_the_Warrior.png",
@@ -454,7 +454,7 @@
       ] 
   },
   {
-    "uuid": "",
+    "uuid": "29",
     "category": "wa",
     "name": "Decarabian's",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/96/Item_Debris_of_Decarabian%27s_City.png",
@@ -466,7 +466,7 @@
       ] 
   },
   {
-    "uuid": "",
+    "uuid": "30",
     "category": "wa",
     "name": "Boreal Wolf's",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Item_Boreal_Wolf%27s_Cracked_Tooth.png",
@@ -479,7 +479,7 @@
       7  
       ] 
   },{
-    "uuid": "",
+    "uuid": "31",
     "category": "wa",
     "name": "Dandelion Gladiator",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Item_Chains_of_the_Dandelion_Gladiator.png",
@@ -491,7 +491,7 @@
       7  
       ] 
   },{
-    "uuid": "",
+    "uuid": "32",
     "category": "wa",
     "name": "Guyun",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Item_Lustrous_Stone_from_Guyun.png",
@@ -503,7 +503,7 @@
       7  
       ] 
   },{
-    "uuid": "",
+    "uuid": "33",
     "category": "wa",
     "name": "Mist Veiled",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Item_Mist_Veiled_Mercury_Elixir.png",
@@ -516,7 +516,7 @@
       7  
       ] 
   },{
-    "uuid": "",
+    "uuid": "34",
     "category": "wa",
     "name": "Aerosiderite",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Item_Piece_of_Aerosiderite.png",
@@ -528,7 +528,7 @@
       7 
       ] 
   },{
-    "uuid": "",
+    "uuid": "35",
     "category": "ma",
     "name": "Slime Condensate",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Item_Slime_Condensate.png",
@@ -542,7 +542,7 @@
       7 
       ] 
   },{
-    "uuid": "",
+    "uuid": "36",
     "category": "ma",
     "name": "Damaged Mask",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Damaged_Mask.png",
@@ -556,7 +556,7 @@
       7  
       ] 
   },{
-    "uuid": "",
+    "uuid": "37",
     "category": "ma",
     "name": "Firm Arrowhead",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Item_Firm_Arrowhead.png",
@@ -571,7 +571,7 @@
       ] 
   },
   {
-    "uuid": "",
+    "uuid": "38",
     "category": "ma",
     "name": "Divining Scroll",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/74/Item_Divining_Scroll.png",
@@ -585,7 +585,7 @@
       7  
       ] 
   },{
-    "uuid": "",
+    "uuid": "39",
     "category": "ma",
     "name": "Heavy Horn",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c0/Item_Heavy_Horn.png",
@@ -599,7 +599,7 @@
       7  
       ] 
   },{
-    "uuid": "",
+    "uuid": "40",
     "category": "ma",
     "name": "Dead Ley Line Branch",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Item_Dead_Ley_Line_Branch.png",
@@ -613,7 +613,7 @@
       7 
       ] 
   },{
-    "uuid": "",
+    "uuid": "41",
     "category": "ma",
     "name": "Chaos Device",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Item_Chaos_Device.png",
@@ -627,7 +627,7 @@
       7  
       ] 
   },{
-    "uuid": "",
+    "uuid": "42",
     "category": "ma",
     "name": "Mist Grass Pollen",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Mist_Grass_Pollen.png",
@@ -641,7 +641,7 @@
       7  
       ] 
   },{
-    "uuid": "",
+    "uuid": "43",
     "category": "ma",
     "name": "Hunter's Sacrificial Knife",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/28/Item_Hunter%27s_Sacrificial_Knife.png",
@@ -655,7 +655,7 @@
       7  
       ] 
   },{
-    "uuid": "",
+    "uuid": "44",
     "category": "ma",
     "name": "Recruit's Insignia",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Item_Recruit%27s_Insignia.png",
@@ -668,7 +668,7 @@
       6,  
       7 ]
   },{
-    "uuid": "",
+    "uuid": "45",
     "category": "ma",
     "name": "Treasure Hoarder Insignia",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Item_Treasure_Hoarder_Insignia.png",
@@ -682,7 +682,7 @@
       7  
       ] 
   },{
-    "uuid": "",
+    "uuid": "46",
     "category": "ma",
     "name": "Fragile Bone Shard",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Item_Fragile_Bone_Shard.png",
@@ -696,7 +696,7 @@
       7  
       ] 
   },{
-    "uuid": "",
+    "uuid": "47",
     "category": "ma",
     "name": "Whopperflower Nectar",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Item_Whopperflower_Nectar.png",
@@ -710,7 +710,7 @@
       7  
       ] 
   },{
-    "uuid": "",
+    "uuid": "48",
     "category": "pa",
     "name": "Small Lamp Grass",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Item_Small_Lamp_Grass.png ",
@@ -724,7 +724,7 @@
       7 
       ] 
   },{
-    "uuid": "",
+    "uuid": "49",
     "category": "pa",
     "name": "Valberry",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/ed/Item_Valberry.png",
@@ -738,7 +738,7 @@
       7  
       ] 
   },{
-    "uuid": "",
+    "uuid": "50",
     "category": "pa",
     "name": "Windwheel Aster",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Windwheel_Aster.png",
@@ -752,7 +752,7 @@
       7  
       ] 
   },{
-    "uuid": "",
+    "uuid": "51",
     "category": "pa",
     "name": "Wolfhook",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Item_Wolfhook.png",
@@ -766,7 +766,7 @@
       7  
       ] 
   },{
-    "uuid": "",
+    "uuid": "52",
     "category": "pa",
     "name": "Dandelion_Seed",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Item_Dandelion_Seed.png",
@@ -780,7 +780,7 @@
       7 
       ] 
   },{
-    "uuid": "",
+    "uuid": "53",
     "category": "pa",
     "name": "Cecilia",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Item_Cecilia.png",
@@ -797,7 +797,7 @@
       7  
       ] 
   },{
-    "uuid": "",
+    "uuid": "54",
     "category": "pa",
     "name": "Mushroom",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Philanemo_Mushroom.png",
@@ -811,7 +811,7 @@
       7 
       ] 
   },{
-    "uuid": "",
+    "uuid": "55",
     "category": "pa",
     "name": "Calla Lily",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Item_Calla_Lily.png",
@@ -825,7 +825,7 @@
       7  
       ] 
   },{
-    "uuid": "",
+    "uuid": "56",
     "category": "pa",
     "name": "Cor Lapis",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Item_Cor_Lapis.png/revision",
@@ -839,7 +839,7 @@
       7  
       ] 
   },{
-    "uuid": "",
+    "uuid": "57",
     "category": "pa",
     "name": "Jueyun Chili",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/13/Item_Jueyun_Chili.png",
@@ -853,7 +853,7 @@
       7  
       ] 
   },{
-    "uuid": "",
+    "uuid": "58",
     "category": "pa",
     "name": "Qingxin",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2d/Item_Qingxin.png",
@@ -867,7 +867,7 @@
       7  
       ] 
   },{
-    "uuid": "",
+    "uuid": "59",
     "category": "pa",
     "name": "Violetgrass",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Item_Violetgrass.png",
@@ -881,7 +881,7 @@
       7  
       ] 
   },{
-    "uuid": "",
+    "uuid": "60",
     "category": "pa",
     "name": "Noctilucous Jade",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Noctilucous_Jade.png",
@@ -895,7 +895,7 @@
       7  
       ] 
   },{
-    "uuid": "",
+    "uuid": "61",
     "category": "",
     "name": "Silk Flower",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/37/Item_Silk_Flower.png",
@@ -909,7 +909,7 @@
       7  
       ] 
   },{
-    "uuid": "",
+    "uuid": "62",
     "category": "pa",
     "name": "Glaze Lily",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Item_Glaze_Lily.png",
@@ -923,7 +923,7 @@
       7  
       ] 
   },{
-    "uuid": "",
+    "uuid": "63",
     "category": "pa",
     "name": "Starconch",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Item_Starconch.png",
