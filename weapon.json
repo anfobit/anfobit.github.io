@@ -1,831 +1,831 @@
 [
-  {
-    "uuid": "1",
-    "name": "Skyward Blade",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/03/Weapon_Skyward_Blade.png",
-    "type": "Sword",
-    "ascension": [
-      "30",
-      "40",
-      "35"
-    ]
-  },
-  {
-    "uuid": "2",
-    "name": "Aquila Favonia",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Weapon_Aquila_Favonia.png",
-    "type": "Sword",
-    "ascension": [
-      "29",
-      "39",
-      "37"
-    ]
-  },
-  {
-    "uuid": "3",
-    "name": "Favonius Sword",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/90/Weapon_Favonius_Sword.png",
-    "type": "Sword",
-    "ascension": [
-      "29",
-      "39",
-      "37"
-    ]
-  },
-  {
-    "uuid": "4",
-    "name": "The Black Sword",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Weapon_The_Black_Sword.png",
-    "type": "Sword",
-    "ascension": [
-      "30",
-      "40",
-      "35"
-    ]
-  },
-  {
-    "uuid": "5",
-    "name": "The Flute",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/63/Weapon_The_Flute.png",
-    "type": "",
-    "ascension": [
-      "30",
-      "40",
-      "35"
-    ]
-  },
-  {
-    "uuid": "6",
-    "name": "Sacrificial Sword",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Weapon_Sacrificial_Sword.png",
-    "type": "Sword",
-    "ascension": [
-      "31",
-      "41",
-      "38"
-    ]
-  },
-  {
-    "uuid": "7",
-    "name": "Prototype Rancour",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Weapon_Prototype_Rancour.png",
-    "type": "Sword",
-    "ascension": [
-      "33",
-      "42",
-      "44"
-    ]
-  },
-  {
-    "uuid": "8",
-    "name": "Weapon Lion's Roar",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e6/Weapon_Lion%27s_Roar.png",
-    "type": "Sword",
-    "ascension": [
-      "32",
-      "43",
-      "45"
-    ]
-  },
-  {
-    "uuid": "9",
-    "name": "Iron Sting",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Weapon_Iron_Sting.png",
-    "type": "Sword",
-    "ascension": [
-      "34",
-      "46",
-      "47"
-    ]
-  },
-  {
-    "uuid": "10",
-    "name": "Sword of Descension",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Weapon_Sword_of_Descension.png",
-    "type": "Sword",
-    "ascension": [
-      "30",
-      "40",
-      "45"
-    ]
-  },
-  {
-    "uuid": "11",
-    "name": "Skyrider Sword",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/34/Weapon_Skyrider_Sword.png",
-    "type": "Sword",
-    "ascension": [
-      "34",
-      "46",
-      "44"
-    ]
-  },
-  {
-    "uuid": "12",
-    "name": "Fillet Blade",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f7/Weapon_Fillet_Blade.png",
-    "type": "",
-    "ascension": [
-      "33",
-      "42",
-      "45"
-    ]
-  },
-  {
-    "uuid": "13",
-    "name": "Traveler's_Handy_Sword",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Weapon_Traveler%27s_Handy_Sword.png",
-    "type": "Sword",
-    "ascension": [
-      "31",
-      "41",
-      "38"
-    ]
-  },
-  {
-    "uuid": "14",
-    "name": "Harbinger of Dawn",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Weapon_Harbinger_of_Dawn.png",
-    "type": "Sword",
-    "ascension": [
-      "30",
-      "40",
-      "35"
-    ]
-  },
-  {
-    "uuid": "15",
-    "name": "Dark Iron Sword",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Weapon_Dark_Iron_Sword.png",
-    "type": "",
-    "ascension": [
-      "32",
-      "43",
-      "36"
-    ]
-  },
-  {
-    "uuid": "16",
-    "name": "Cool Steel",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Weapon_Cool_Steel.png",
-    "type": "",
-    "ascension": [
-      "29",
-      "39",
-      "37"
-    ]
-  },
-  {
-    "uuid": "17",
-    "name": "Silver Sword",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Weapon_Silver_Sword.png",
-    "type": "Sword",
-    "ascension": [
-      "29",
-      "39",
-      "37"
-    ]
-  },
-  {
-    "uuid": "18",
-    "name": "Dull Blade",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Weapon_Dull_Blade.png",
-    "type": "Sword",
-    "ascension": [
-      "29",
-      "39",
-      "37"
-    ]
-  },
-  {
-    "uuid": "19",
-    "name": "Amos Bow",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Weapon_Amos%27_Bow.png",
-    "type": "Bow",
-    "ascension": [
-      "31",
-      "41",
-      "35"
-    ]
-  },
-  {
-    "uuid": "20",
-    "name": "Skyward Harp",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/19/Weapon_Skyward_Harp.png",
-    "type": "Bow",
-    "ascension": [
-      "30",
-      "40",
-      "37"
-    ]
-  },
-  {
-    "uuid": "21",
-    "name": "Compound Bow",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Weapon_Compound_Bow.png",
-    "type": "Bow",
-    "ascension": [
-      "34",
-      "46",
-      "44"
-    ]
-  },
-  {
-    "uuid": "22",
-    "name": "Blackcliff Warbow",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Weapon_Blackcliff_Warbow.png",
-    "type": "Bow",
-    "ascension": [
-      "32",
-      "43",
-      "45"
-    ]
-  },
-  {
-    "uuid": "23",
-    "name": "The Viridescent Hunt",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Weapon_The_Viridescent_Hunt.png",
-    "type": "Bow",
-    "ascension": [
-      "29",
-      "39",
-      "37"
-    ]
-  },
-  {
-    "uuid": "24",
-    "name": "Prototype Crescent",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/43/Weapon_Prototype_Crescent.png",
-    "type": "Bow",
-    "ascension": [
-      "33",
-      "42",
-      "45"
-    ]
-  },
-  {
-    "uuid": "25",
-    "name": "Sacrificial Bow",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/ec/Weapon_Sacrificial_Bow.png",
-    "type": "Bow",
-    "ascension": [
-      "30",
-      "40",
-      "35"
-    ]
-  },
-  {
-    "uuid": "26",
-    "name": "Alley Hunter",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0a/Weapon_Alley_Hunter.png",
-    "type": "Bow",
-    "ascension": [
-      "30",
-      "40",
-      "45"
-    ]
-  },
-  {
-    "uuid": "27",
-    "name": "Rust",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Weapon_Rust.png",
-    "type": "Bow",
-    "ascension": [
-      "32",
-      "43",
-      "36"
-    ]
-  },
-  {
-    "uuid": "28",
-    "name": "The Stringless",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Weapon_The_Stringless.png",
-    "type": "Bow",
-    "ascension": [
-      "29",
-      "39",
-      "37"
-    ]
-  },
-  {
-    "uuid": "29",
-    "name": "Favonius Warbow",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Weapon_Favonius_Warbow.png",
-    "type": "Bow",
-    "ascension": [
-      "31",
-      "41",
-      "47"
-    ]
-  },
-  {
-    "uuid": "30",
-    "name": "Sharpshooter's_Oath",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Weapon_Sharpshooter%27s_Oath.png",
-    "type": "Bow",
-    "ascension": [
-      "37",
-      "40",
-      "35"
-    ]
-  },
-  {
-    "uuid": "31",
-    "name": "Slingshot",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Weapon_Slingshot.png",
-    "type": "Bow",
-    "ascension": [
-      "58",
-      "43",
-      "36"
-    ]
-  },
-  {
-    "uuid": "32",
-    "name": "Raven Bow",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d0/Weapon_Raven_Bow.png",
-    "type": "Bow",
-    "ascension": [
-      "29",
-      "39",
-      "37"
-    ]
-  },
-  {
-    "uuid": "33",
-    "name": "Messenger",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/38/Weapon_Messenger.png",
-    "type": "Bow",
-    "ascension": [
-      "33",
-      "42",
-      "45"
-    ]
-  },
-  {
-    "uuid": "34",
-    "name": "Recurve Bow",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b5/Weapon_Recurve_Bow.png",
-    "type": "Bow",
-    "ascension": [
-      "31",
-      "41",
-      "38"
-    ]
-  },
-  {
-    "uuid": "35",
-    "name": "Seasoned_Hunter's_Bow",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/82/Weapon_Seasoned_Hunter%27s_Bow.png",
-    "type": "Bow",
-    "ascension": [
-      "30",
-      "40",
-      "45"
-    ]
-  },
-  {
-    "uuid": "36",
-    "name": "Hunter's_Bow",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Weapon_Hunter%27s_Bow.png",
-    "type": "Bow",
-    "ascension": [
-      "30",
-      "40",
-      "45"
-    ]
-  },
-  {
-    "uuid": "37",
-    "name": "Primordial Jade Winged Spear",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/80/Weapon_Primordial_Jade_Winged-Spear.png",
-    "type": "Polearm",
-    "ascension": [
-      "32",
-      "43",
-      "44"
-    ]
-  },
-  {
-    "uuid": "38",
-    "name": "Skyward Spine",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Weapon_Skyward_Spine.png",
-    "type": "Polearm",
-    "ascension": [
-      "31",
-      "41",
-      "38"
-    ]
-  },
-  {
-    "uuid": "39",
-    "name": "Crescent Pike",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Weapon_Crescent_Pike.png",
-    "type": "Polearm",
-    "ascension": [
-      "32",
-      "43",
-      "45"
-    ]
-  },
-  {
-    "uuid": "40",
-    "name": "Dragon's_Bane",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Weapon_Dragon%27s_Bane.png",
-    "type": "Polearm",
-    "ascension": [
-      "33",
-      "42",
-      "38"
-    ]
-  },
-  {
-    "uuid": "41",
-    "name": "Prototype Grudge",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Weapon_Prototype_Grudge.png",
-    "type": "Polearm",
-    "ascension": [
-      "34",
-      "46",
-      "36"
-    ]
-  },
-  {
-    "uuid": "42",
-    "name": "Deathmatch",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Weapon_Deathmatch.png",
-    "type": "Polearm",
-    "ascension": [
-      "30",
-      "40",
-      "47"
-    ]
-  },
-  {
-    "uuid": "43",
-    "name": "Favonius Lance",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Weapon_Favonius_Lance.png",
-    "type": "Polearm",
-    "ascension": [
-      "31",
-      "41",
-      "35"
-    ]
-  },
-  {
-    "uuid": "44",
-    "name": "Black Tassel",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/43/Weapon_Black_Tassel.png",
-    "type": "Polearm",
-    "ascension": [
-      "34",
-      "46",
-      "37"
-    ]
-  },
-  {
-    "uuid": "45",
-    "name": "White Tassel",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Weapon_White_Tassel.png",
-    "type": "Polearm",
-    "ascension": [
-      "32",
-      "43",
-      "44"
-    ]
-  },
-  {
-    "uuid": "46",
-    "name": "Halberd",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Weapon_Halberd.png",
-    "type": "Polearm",
-    "ascension": [
-      "33",
-      "42",
-      "47"
-    ]
-  },
-  {
-    "uuid": "47",
-    "name": "Iron Point",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/25/Weapon_Iron_Point.png",
-    "type": "Polearm",
-    "ascension": [
-      "52",
-      "41",
-      "38"
-    ]
-  },
-  {
-    "uuid": "48",
-    "name": "Beginner's_Protector",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/fc/Weapon_Beginner%27s_Protector.png",
-    "type": "Polearm",
-    "ascension": [
-      "31",
-      "41",
-      "38"
-    ]
-  },
-  {
-    "uuid": "49",
-    "name": "Skyward Pride",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Weapon_Skyward_Pride.png",
-    "type": "Claymore",
-    "ascension": [
-      "30", "40", "35"
-    ]
-  },
-  {
-    "uuid": "50",
-    "name": "Wolf's_Gravestone",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4f/Weapon_Wolf%27s_Gravestone.png",
-    "type": "Claymore",
-    "ascension": [
-      "31", "41", "38"
-    ]
-  },
-  {
-    "uuid": "51",
-    "name": "Sacrificial Greatsword",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Weapon_Sacrificial_Greatsword.png",
-    "type": "Claymore",
-    "ascension": [
-      "30", "40", "37"
-    ]
-  },
-  {
-    "uuid": "52",
-    "name": "The Bell",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6e/Weapon_The_Bell.png",
-    "type": "Claymore",
-    "ascension": [
-      "29", "39", "47"
-    ]
-  },
-  {
-    "uuid": "53",
-    "name": "Blackcliff Slasher",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/Weapon_Blackcliff_Slasher.png",
-    "type": "Claymore",
-    "ascension": [
-      "33", "42", "44"
-    ]
-  },
-  {
-    "uuid": "54",
-    "name": "Serpent Spine",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Weapon_Serpent_Spine.png",
-    "type": "Claymore",
-    "ascension": [
-      "34", "46", "47"
-    ]
-  },{
-    "uuid": "55",
-    "name": "Whiteblind",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Weapon_Whiteblind.png",
-    "type": "Claymore",
-    "ascension": [
-      "32", "43", "45"  
-    ]
-  },{
-    "uuid": "56",
-    "name": "Royal Greatsword",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Weapon_Royal_Greatsword.png",
-    "type": "Claymore",
-    "ascension": [
-      "31", "41", "35" 
-    ]
-  },{
-    "uuid": "57",
-    "name": "Rainslasher",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Weapon_Rainslasher.png",
-    "type": "Claymore",
-    "ascension": [ 
-      "33", "42", "38"  
-    ]
-  },{
-    "uuid": "58",
-    "name": "Prototype Aminus",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/68/Weapon_Prototype_Aminus.png",
-    "type": "Claymore",
-    "ascension": [ 
-      "34", "46", "36"
-    ]
-  },{
-    "uuid": "59",
-    "name": "Favonius Greatsword",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Weapon_Favonius_Greatsword.png",
-    "type": "Claymore",
-    "ascension": [
-      "31", "41", "44"  
-    ]
-  },{
-    "uuid": "60",
-    "name": "Skyrider Greatsword",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6e/Weapon_Skyrider_Greatsword.png",
-    "type": "Claymore",
-    "ascension": [
-      "34", "46", "45" 
-    ]
-  },{
-    "uuid": "61",
-    "name": "White Iron Greatsword",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Weapon_White_Iron_Greatsword.png",
-    "type": "Claymore",
-    "ascension": [
-      "31", "41", "35" 
-    ]
-  },{
-    "uuid": "62",
-    "name": "Ferrous Shadow",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Weapon_Ferrous_Shadow.png",
-    "type": "Claymore",
-    "ascension": [
-      "29", "39", "47"  
-    ]
-  },{
-    "uuid": "63",
-    "name": "Debate Club",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/74/Weapon_Debate_Club.png",
-    "type": "Claymore",
-    "ascension": [
-      "33", "42", "38" 
-    ]
-  },{
-    "uuid": "64",
-    "name": "Bloodtainted Greatsword",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4a/Weapon_Bloodtainted_Greatsword.png",
-    "type": "Claymore",
-    "ascension": [
-      "30", "40", "37"
-    ]
-  },{
-    "uuid": "65",
-    "name": "Old Merc's Pal",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Weapon_Old_Merc%27s_Pal.png",
-    "type": "Claymore",
-    "ascension": [
-      "30", "40", "35"  
-    ]
-  },{
-    "uuid": "66",
-    "name": "Waster Greatsword",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Weapon_Waster_Greatsword.png",
-    "type": "Claymore",
-    "ascension": [
-      "30", "40", "35" 
-    ]
-  },{
-    "uuid": "67",
-    "name": "Lost Prayer to the Sacred Winds",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Weapon_Lost_Prayer_to_the_Sacred_Winds.png",
-    "type": "Catalyst",
-    "ascension": [
-      "31", "41", "35"
-    ]
-  },{
-    "uuid": "68",
-    "name": "Skyward Atlas",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Weapon_Skyward_Atlas.png",
-    "type": "Catalyst",
-    "ascension": [
-      "30", "40", "37" 
-    ]
-  },{
-    "uuid": "69",
-    "name": "Memory of Dust",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Weapon_Memory_of_Dust.png",
-    "type": "Catalyst",
-    "ascension": [
-     "34", "46", "36"
-    ]
-  },{
-    "uuid": "70",
-    "name": "Favonius Codex",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/36/Weapon_Favonius_Codex.png",
-    "type": "Catalyst",
-    "ascension": [
-      "29", "39", "38"  
-    ]
-  },{
-    "uuid": "71",
-    "name": "Eye of Perception",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Weapon_Eye_of_Perception.png",
-    "type": "Catalyst",
-    "ascension": [
-      "33", "42", "38" 
-    ]
-  },{
-    "uuid": "72",
-    "name": "Prototype Malice",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Weapon_Prototype_Malice.png",
-    "type": "Catalyst",
-    "ascension": [
-      "33", "42", "37" 
-    ]
-  },{
-    "uuid": "73",
-    "name": "Royal Grimoire",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/99/Weapon_Royal_Grimoire.png",
-    "type": "Catalyst",
-    "ascension": [
-      "29", "39", "44"
-    ]
-  },{
-    "uuid": "74",
-    "name": "Sacrificial Fragments",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Weapon_Sacrificial_Fragments.png",
-    "type": "Catalyst",
-    "ascension": [
-      "31", "41", "45" 
-    ]
-  },{
-    "uuid": "75",
-    "name": "Solar Pearl",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/fc/Weapon_Solar_Pearl.png",
-    "type": "Catalyst",
-    "ascension": [ 
-      "32", "43", "47"
-    ]
-  },{
-    "uuid": "76",
-    "name": "The Widsith",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Weapon_The_Widsith.png",
-    "type": "Catalyst",
-    "ascension": [ 
-      "30", "40", "36"
-    ]
-  },{
-    "uuid": "77",
-    "name": "Mappa Mare",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4d/Weapon_Mappa_Mare.png",
-    "type": "Catalyst",
-    "ascension": [ 
-      "34", "46", "35" 
-    ]
-  },{
-    "uuid": "78",
-    "name": "Wine and Song",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c6/Weapon_Wine_and_Song.png",
-    "type": "Catalyst",
-    "ascension": [
-      "30", "40", "38"  
-    ]
-  },{
-    "uuid": "79",
-    "name": "Otherworldly Story",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/Weapon_Otherworldly_Story.png",
-    "ascension": [
-      "31", "41", "36" 
-    ]
-  },{
-    "uuid": "80",
-    "name": "Twin Nephrite",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Weapon_Twin_Nephrite.png",
-    "type": "Catalyst",
-    "ascension": [
-      "33", "42", "44" 
-    ]
-  },{
-    "uuid": "81",
-    "name": "Magic Guide",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Weapon_Magic_Guide.png",
-    "type": "Catalyst",
-    "ascension": [
-      "29", "39", "35" 
-    ]
-  },{
-    "uuid": "82",
-    "name": "Thrilling Tales of Dragon Slayers",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/19/Weapon_Thrilling_Tales_of_Dragon_Slayers.png",
-    "type": "Catalyst",
-    "ascension": [
-      "30", "40", "38"  
-    ]
-  },{
-    "uuid": "83",
-    "name": "Emerald Orb",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7c/Weapon_Emerald_Orb.png",
-    "type": "Catalyst",
-    "ascension": [
-      "32", "43", "45"  
-    ]
-  },{
-    "uuid": "84",
-    "name": "Pocket Grimoire",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/16/Weapon_Pocket_Grimoire.png",
-    "type": "Catalyst",
-    "ascension": [
-      "29", "39", "36"  
-    ]
-  },{
-    "uuid": "85",
-    "name": "Apprentice's_Notes",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Weapon_Apprentice%27s_Notes.png",
-    "type": "Catalyst",
-    "ascension": [
-      "29", "39", "36" 
-    ]
-  }
-]
+    {
+      "uuid": "1",
+      "name": "Skyward Blade",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/03/Weapon_Skyward_Blade.png",
+      "type": "Sword",
+      "ascension": [
+        "30",
+        "40",
+        "35"
+      ]
+    },
+    {
+      "uuid": "2",
+      "name": "Aquila Favonia",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Weapon_Aquila_Favonia.png",
+      "type": "Sword",
+      "ascension": [
+        "29",
+        "39",
+        "37"
+      ]
+    },
+    {
+      "uuid": "3",
+      "name": "Favonius Sword",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/90/Weapon_Favonius_Sword.png",
+      "type": "Sword",
+      "ascension": [
+        "29",
+        "39",
+        "37"
+      ]
+    },
+    {
+      "uuid": "4",
+      "name": "The Black Sword",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Weapon_The_Black_Sword.png",
+      "type": "Sword",
+      "ascension": [
+        "30",
+        "40",
+        "35"
+      ]
+    },
+    {
+      "uuid": "5",
+      "name": "The Flute",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/63/Weapon_The_Flute.png",
+      "type": "Sword",
+      "ascension": [
+        "30",
+        "40",
+        "35"
+      ]
+    },
+    {
+      "uuid": "6",
+      "name": "Sacrificial Sword",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Weapon_Sacrificial_Sword.png",
+      "type": "Sword",
+      "ascension": [
+        "31",
+        "41",
+        "38"
+      ]
+    },
+    {
+      "uuid": "7",
+      "name": "Prototype Rancour",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Weapon_Prototype_Rancour.png",
+      "type": "Sword",
+      "ascension": [
+        "33",
+        "42",
+        "44"
+      ]
+    },
+    {
+      "uuid": "8",
+      "name": "Weapon Lion's Roar",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e6/Weapon_Lion%27s_Roar.png",
+      "type": "Sword",
+      "ascension": [
+        "32",
+        "43",
+        "45"
+      ]
+    },
+    {
+      "uuid": "9",
+      "name": "Iron Sting",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Weapon_Iron_Sting.png",
+      "type": "Sword",
+      "ascension": [
+        "34",
+        "46",
+        "47"
+      ]
+    },
+    {
+      "uuid": "10",
+      "name": "Sword of Descension",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Weapon_Sword_of_Descension.png",
+      "type": "Sword",
+      "ascension": [
+        "30",
+        "40",
+        "45"
+      ]
+    },
+    {
+      "uuid": "11",
+      "name": "Skyrider Sword",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/34/Weapon_Skyrider_Sword.png",
+      "type": "Sword",
+      "ascension": [
+        "34",
+        "46",
+        "44"
+      ]
+    },
+    {
+      "uuid": "12",
+      "name": "Fillet Blade",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f7/Weapon_Fillet_Blade.png",
+      "type": "Sword",
+      "ascension": [
+        "33",
+        "42",
+        "45"
+      ]
+    },
+    {
+      "uuid": "13",
+      "name": "Traveler's_Handy_Sword",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Weapon_Traveler%27s_Handy_Sword.png",
+      "type": "Sword",
+      "ascension": [
+        "31",
+        "41",
+        "38"
+      ]
+    },
+    {
+      "uuid": "14",
+      "name": "Harbinger of Dawn",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Weapon_Harbinger_of_Dawn.png",
+      "type": "Sword",
+      "ascension": [
+        "30",
+        "40",
+        "35"
+      ]
+    },
+    {
+      "uuid": "15",
+      "name": "Dark Iron Sword",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Weapon_Dark_Iron_Sword.png",
+      "type": "Sword",
+      "ascension": [
+        "32",
+        "43",
+        "36"
+      ]
+    },
+    {
+      "uuid": "16",
+      "name": "Cool Steel",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Weapon_Cool_Steel.png",
+      "type": "Sword",
+      "ascension": [
+        "29",
+        "39",
+        "37"
+      ]
+    },
+    {
+      "uuid": "17",
+      "name": "Silver Sword",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Weapon_Silver_Sword.png",
+      "type": "Sword",
+      "ascension": [
+        "29",
+        "39",
+        "37"
+      ]
+    },
+    {
+      "uuid": "18",
+      "name": "Dull Blade",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Weapon_Dull_Blade.png",
+      "type": "Sword",
+      "ascension": [
+        "29",
+        "39",
+        "37"
+      ]
+    },
+    {
+      "uuid": "19",
+      "name": "Amos Bow",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Weapon_Amos%27_Bow.png",
+      "type": "Bow",
+      "ascension": [
+        "31",
+        "41",
+        "35"
+      ]
+    },
+    {
+      "uuid": "20",
+      "name": "Skyward Harp",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/19/Weapon_Skyward_Harp.png",
+      "type": "Bow",
+      "ascension": [
+        "30",
+        "40",
+        "37"
+      ]
+    },
+    {
+      "uuid": "21",
+      "name": "Compound Bow",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Weapon_Compound_Bow.png",
+      "type": "Bow",
+      "ascension": [
+        "34",
+        "46",
+        "44"
+      ]
+    },
+    {
+      "uuid": "22",
+      "name": "Blackcliff Warbow",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Weapon_Blackcliff_Warbow.png",
+      "type": "Bow",
+      "ascension": [
+        "32",
+        "43",
+        "45"
+      ]
+    },
+    {
+      "uuid": "23",
+      "name": "The Viridescent Hunt",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Weapon_The_Viridescent_Hunt.png",
+      "type": "Bow",
+      "ascension": [
+        "29",
+        "39",
+        "37"
+      ]
+    },
+    {
+      "uuid": "24",
+      "name": "Prototype Crescent",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/43/Weapon_Prototype_Crescent.png",
+      "type": "Bow",
+      "ascension": [
+        "33",
+        "42",
+        "45"
+      ]
+    },
+    {
+      "uuid": "25",
+      "name": "Sacrificial Bow",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/ec/Weapon_Sacrificial_Bow.png",
+      "type": "Bow",
+      "ascension": [
+        "30",
+        "40",
+        "35"
+      ]
+    },
+    {
+      "uuid": "26",
+      "name": "Alley Hunter",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0a/Weapon_Alley_Hunter.png",
+      "type": "Bow",
+      "ascension": [
+        "30",
+        "40",
+        "45"
+      ]
+    },
+    {
+      "uuid": "27",
+      "name": "Rust",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Weapon_Rust.png",
+      "type": "Bow",
+      "ascension": [
+        "32",
+        "43",
+        "36"
+      ]
+    },
+    {
+      "uuid": "28",
+      "name": "The Stringless",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Weapon_The_Stringless.png",
+      "type": "Bow",
+      "ascension": [
+        "29",
+        "39",
+        "37"
+      ]
+    },
+    {
+      "uuid": "29",
+      "name": "Favonius Warbow",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Weapon_Favonius_Warbow.png",
+      "type": "Bow",
+      "ascension": [
+        "31",
+        "41",
+        "47"
+      ]
+    },
+    {
+      "uuid": "30",
+      "name": "Sharpshooter's_Oath",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Weapon_Sharpshooter%27s_Oath.png",
+      "type": "Bow",
+      "ascension": [
+        "37",
+        "40",
+        "35"
+      ]
+    },
+    {
+      "uuid": "31",
+      "name": "Slingshot",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Weapon_Slingshot.png",
+      "type": "Bow",
+      "ascension": [
+        "58",
+        "43",
+        "36"
+      ]
+    },
+    {
+      "uuid": "32",
+      "name": "Raven Bow",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d0/Weapon_Raven_Bow.png",
+      "type": "Bow",
+      "ascension": [
+        "29",
+        "39",
+        "37"
+      ]
+    },
+    {
+      "uuid": "33",
+      "name": "Messenger",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/38/Weapon_Messenger.png",
+      "type": "Bow",
+      "ascension": [
+        "33",
+        "42",
+        "45"
+      ]
+    },
+    {
+      "uuid": "34",
+      "name": "Recurve Bow",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b5/Weapon_Recurve_Bow.png",
+      "type": "Bow",
+      "ascension": [
+        "31",
+        "41",
+        "38"
+      ]
+    },
+    {
+      "uuid": "35",
+      "name": "Seasoned_Hunter's_Bow",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/82/Weapon_Seasoned_Hunter%27s_Bow.png",
+      "type": "Bow",
+      "ascension": [
+        "30",
+        "40",
+        "45"
+      ]
+    },
+    {
+      "uuid": "36",
+      "name": "Hunter's_Bow",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Weapon_Hunter%27s_Bow.png",
+      "type": "Bow",
+      "ascension": [
+        "30",
+        "40",
+        "45"
+      ]
+    },
+    {
+      "uuid": "37",
+      "name": "Primordial Jade Winged Spear",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/80/Weapon_Primordial_Jade_Winged-Spear.png",
+      "type": "Polearm",
+      "ascension": [
+        "32",
+        "43",
+        "44"
+      ]
+    },
+    {
+      "uuid": "38",
+      "name": "Skyward Spine",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Weapon_Skyward_Spine.png",
+      "type": "Polearm",
+      "ascension": [
+        "31",
+        "41",
+        "38"
+      ]
+    },
+    {
+      "uuid": "39",
+      "name": "Crescent Pike",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Weapon_Crescent_Pike.png",
+      "type": "Polearm",
+      "ascension": [
+        "32",
+        "43",
+        "45"
+      ]
+    },
+    {
+      "uuid": "40",
+      "name": "Dragon's_Bane",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Weapon_Dragon%27s_Bane.png",
+      "type": "Polearm",
+      "ascension": [
+        "33",
+        "42",
+        "38"
+      ]
+    },
+    {
+      "uuid": "41",
+      "name": "Prototype Grudge",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Weapon_Prototype_Grudge.png",
+      "type": "Polearm",
+      "ascension": [
+        "34",
+        "46",
+        "36"
+      ]
+    },
+    {
+      "uuid": "42",
+      "name": "Deathmatch",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Weapon_Deathmatch.png",
+      "type": "Polearm",
+      "ascension": [
+        "30",
+        "40",
+        "47"
+      ]
+    },
+    {
+      "uuid": "43",
+      "name": "Favonius Lance",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Weapon_Favonius_Lance.png",
+      "type": "Polearm",
+      "ascension": [
+        "31",
+        "41",
+        "35"
+      ]
+    },
+    {
+      "uuid": "44",
+      "name": "Black Tassel",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/43/Weapon_Black_Tassel.png",
+      "type": "Polearm",
+      "ascension": [
+        "34",
+        "46",
+        "37"
+      ]
+    },
+    {
+      "uuid": "45",
+      "name": "White Tassel",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Weapon_White_Tassel.png",
+      "type": "Polearm",
+      "ascension": [
+        "32",
+        "43",
+        "44"
+      ]
+    },
+    {
+      "uuid": "46",
+      "name": "Halberd",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Weapon_Halberd.png",
+      "type": "Polearm",
+      "ascension": [
+        "33",
+        "42",
+        "47"
+      ]
+    },
+    {
+      "uuid": "47",
+      "name": "Iron Point",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/25/Weapon_Iron_Point.png",
+      "type": "Polearm",
+      "ascension": [
+        "52",
+        "41",
+        "38"
+      ]
+    },
+    {
+      "uuid": "48",
+      "name": "Beginner's_Protector",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/fc/Weapon_Beginner%27s_Protector.png",
+      "type": "Polearm",
+      "ascension": [
+        "31",
+        "41",
+        "38"
+      ]
+    },
+    {
+      "uuid": "49",
+      "name": "Skyward Pride",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Weapon_Skyward_Pride.png",
+      "type": "Claymore",
+      "ascension": [
+        "30", "40", "35"
+      ]
+    },
+    {
+      "uuid": "50",
+      "name": "Wolf's_Gravestone",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4f/Weapon_Wolf%27s_Gravestone.png",
+      "type": "Claymore",
+      "ascension": [
+        "31", "41", "38"
+      ]
+    },
+    {
+      "uuid": "51",
+      "name": "Sacrificial Greatsword",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Weapon_Sacrificial_Greatsword.png",
+      "type": "Claymore",
+      "ascension": [
+        "30", "40", "37"
+      ]
+    },
+    {
+      "uuid": "52",
+      "name": "The Bell",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6e/Weapon_The_Bell.png",
+      "type": "Claymore",
+      "ascension": [
+        "29", "39", "47"
+      ]
+    },
+    {
+      "uuid": "53",
+      "name": "Blackcliff Slasher",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/Weapon_Blackcliff_Slasher.png",
+      "type": "Claymore",
+      "ascension": [
+        "33", "42", "44"
+      ]
+    },
+    {
+      "uuid": "54",
+      "name": "Serpent Spine",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Weapon_Serpent_Spine.png",
+      "type": "Claymore",
+      "ascension": [
+        "34", "46", "47"
+      ]
+    },{
+      "uuid": "55",
+      "name": "Whiteblind",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Weapon_Whiteblind.png",
+      "type": "Claymore",
+      "ascension": [
+        "32", "43", "45"  
+      ]
+    },{
+      "uuid": "56",
+      "name": "Royal Greatsword",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Weapon_Royal_Greatsword.png",
+      "type": "Claymore",
+      "ascension": [
+        "31", "41", "35" 
+      ]
+    },{
+      "uuid": "57",
+      "name": "Rainslasher",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Weapon_Rainslasher.png",
+      "type": "Claymore",
+      "ascension": [ 
+        "33", "42", "38"  
+      ]
+    },{
+      "uuid": "58",
+      "name": "Prototype Aminus",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/68/Weapon_Prototype_Aminus.png",
+      "type": "Claymore",
+      "ascension": [ 
+        "34", "46", "36"
+      ]
+    },{
+      "uuid": "59",
+      "name": "Favonius Greatsword",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Weapon_Favonius_Greatsword.png",
+      "type": "Claymore",
+      "ascension": [
+        "31", "41", "44"  
+      ]
+    },{
+      "uuid": "60",
+      "name": "Skyrider Greatsword",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6e/Weapon_Skyrider_Greatsword.png",
+      "type": "Claymore",
+      "ascension": [
+        "34", "46", "45" 
+      ]
+    },{
+      "uuid": "61",
+      "name": "White Iron Greatsword",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Weapon_White_Iron_Greatsword.png",
+      "type": "Claymore",
+      "ascension": [
+        "31", "41", "35" 
+      ]
+    },{
+      "uuid": "62",
+      "name": "Ferrous Shadow",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Weapon_Ferrous_Shadow.png",
+      "type": "Claymore",
+      "ascension": [
+        "29", "39", "47"  
+      ]
+    },{
+      "uuid": "63",
+      "name": "Debate Club",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/74/Weapon_Debate_Club.png",
+      "type": "Claymore",
+      "ascension": [
+        "33", "42", "38" 
+      ]
+    },{
+      "uuid": "64",
+      "name": "Bloodtainted Greatsword",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4a/Weapon_Bloodtainted_Greatsword.png",
+      "type": "Claymore",
+      "ascension": [
+        "30", "40", "37"
+      ]
+    },{
+      "uuid": "65",
+      "name": "Old Merc's Pal",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Weapon_Old_Merc%27s_Pal.png",
+      "type": "Claymore",
+      "ascension": [
+        "30", "40", "35"  
+      ]
+    },{
+      "uuid": "66",
+      "name": "Waster Greatsword",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Weapon_Waster_Greatsword.png",
+      "type": "Claymore",
+      "ascension": [
+        "30", "40", "35" 
+      ]
+    },{
+      "uuid": "67",
+      "name": "Lost Prayer to the Sacred Winds",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Weapon_Lost_Prayer_to_the_Sacred_Winds.png",
+      "type": "Catalyst",
+      "ascension": [
+        "31", "41", "35"
+      ]
+    },{
+      "uuid": "68",
+      "name": "Skyward Atlas",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Weapon_Skyward_Atlas.png",
+      "type": "Catalyst",
+      "ascension": [
+        "30", "40", "37" 
+      ]
+    },{
+      "uuid": "69",
+      "name": "Memory of Dust",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Weapon_Memory_of_Dust.png",
+      "type": "Catalyst",
+      "ascension": [
+       "34", "46", "36"
+      ]
+    },{
+      "uuid": "70",
+      "name": "Favonius Codex",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/36/Weapon_Favonius_Codex.png",
+      "type": "Catalyst",
+      "ascension": [
+        "29", "39", "38"  
+      ]
+    },{
+      "uuid": "71",
+      "name": "Eye of Perception",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Weapon_Eye_of_Perception.png",
+      "type": "Catalyst",
+      "ascension": [
+        "33", "42", "38" 
+      ]
+    },{
+      "uuid": "72",
+      "name": "Prototype Malice",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Weapon_Prototype_Malice.png",
+      "type": "Catalyst",
+      "ascension": [
+        "33", "42", "37" 
+      ]
+    },{
+      "uuid": "73",
+      "name": "Royal Grimoire",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/99/Weapon_Royal_Grimoire.png",
+      "type": "Catalyst",
+      "ascension": [
+        "29", "39", "44"
+      ]
+    },{
+      "uuid": "74",
+      "name": "Sacrificial Fragments",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Weapon_Sacrificial_Fragments.png",
+      "type": "Catalyst",
+      "ascension": [
+        "31", "41", "45" 
+      ]
+    },{
+      "uuid": "75",
+      "name": "Solar Pearl",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/fc/Weapon_Solar_Pearl.png",
+      "type": "Catalyst",
+      "ascension": [ 
+        "32", "43", "47"
+      ]
+    },{
+      "uuid": "76",
+      "name": "The Widsith",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Weapon_The_Widsith.png",
+      "type": "Catalyst",
+      "ascension": [ 
+        "30", "40", "36"
+      ]
+    },{
+      "uuid": "77",
+      "name": "Mappa Mare",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4d/Weapon_Mappa_Mare.png",
+      "type": "Catalyst",
+      "ascension": [ 
+        "34", "46", "35" 
+      ]
+    },{
+      "uuid": "78",
+      "name": "Wine and Song",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c6/Weapon_Wine_and_Song.png",
+      "type": "Catalyst",
+      "ascension": [
+        "30", "40", "38"  
+      ]
+    },{
+      "uuid": "79",
+      "name": "Otherworldly Story",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/Weapon_Otherworldly_Story.png",
+      "ascension": [
+        "31", "41", "36" 
+      ]
+    },{
+      "uuid": "80",
+      "name": "Twin Nephrite",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Weapon_Twin_Nephrite.png",
+      "type": "Catalyst",
+      "ascension": [
+        "33", "42", "44" 
+      ]
+    },{
+      "uuid": "81",
+      "name": "Magic Guide",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Weapon_Magic_Guide.png",
+      "type": "Catalyst",
+      "ascension": [
+        "29", "39", "35" 
+      ]
+    },{
+      "uuid": "82",
+      "name": "Thrilling Tales of Dragon Slayers",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/19/Weapon_Thrilling_Tales_of_Dragon_Slayers.png",
+      "type": "Catalyst",
+      "ascension": [
+        "30", "40", "38"  
+      ]
+    },{
+      "uuid": "83",
+      "name": "Emerald Orb",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7c/Weapon_Emerald_Orb.png",
+      "type": "Catalyst",
+      "ascension": [
+        "32", "43", "45"  
+      ]
+    },{
+      "uuid": "84",
+      "name": "Pocket Grimoire",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/16/Weapon_Pocket_Grimoire.png",
+      "type": "Catalyst",
+      "ascension": [
+        "29", "39", "36"  
+      ]
+    },{
+      "uuid": "85",
+      "name": "Apprentice's_Notes",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Weapon_Apprentice%27s_Notes.png",
+      "type": "Catalyst",
+      "ascension": [
+        "29", "39", "36" 
+      ]
+    }
+  ]
