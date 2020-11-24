@@ -269,672 +269,850 @@
     "category": "t",
     "name": "\"Ballad\"",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Item_Guide_to_%22Ballad%22.png",
-    "source": ["- Forsaken Rift"],
-    "days": [ 
-      3, 
-      
-      6,  
-      7  
-      ] 
+    "source": [
+      "- Forsaken Rift"
+    ],
+    "days": [
+      3,
+      6,
+      7
+    ]
   },
   {
     "uuid": "17",
     "category": "t",
     "name": "\"Prosperity\"",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Item_Guide_to_%22Prosperity%22.png",
-    "source": ["- Taishan Mansion"],
-    "days": [1, 
- 
-      4, 
- 
-      7  
-      ] 
+    "source": [
+      "- Taishan Mansion"
+    ],
+    "days": [
+      1,
+      4,
+      7
+    ]
   },
   {
     "uuid": "18",
     "category": "t",
     "name": "\"Diligence\"",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/Item_Guide_to_%22Diligence%22.png",
-    "source": ["- Taishan Mansion"],
-    "days": [ 
-      2,  
-     
-      5, 
-       
-      7 
-      ] 
+    "source": [
+      "- Taishan Mansion"
+    ],
+    "days": [
+      2,
+      5,
+      7
+    ]
   },
   {
     "uuid": "19",
     "category": "t",
     "name": "\"Gold\"",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Item_Guide_to_%22Gold%22.png",
-    "source": ["- Taishan Mansion"],
-    "days": [ 
-      3, 
-      
-      6,  
-      7  
-      ] 
+    "source": [
+      "- Taishan Mansion"
+    ],
+    "days": [
+      3,
+      6,
+      7
+    ]
   },
   {
     "uuid": "20",
     "category": "t",
     "name": "Tail of Boreas",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/66/Item_Tail_of_Boreas.png",
-    "source": ["- Wolf of the North Challenge Reward"],
-    "days": [1, 
-      2,  
-      3,  
-      4,  
-      5,  
-      6, 
-      7  
-      ] 
+    "source": [
+      "- Wolf of the North Challenge Reward"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
   },
   {
     "uuid": "21",
     "category": "t",
     "name": "Ring of Boreas",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Item_Ring_of_Boreas.png",
-    "source": ["- Wolf of the North Challenge Reward"],
-    "days": [1, 
-      2, 
-      3, 
-      4, 
-      5, 
-      6, 
-      7  
-      ] 
+    "source": [
+      "- Wolf of the North Challenge Reward"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
   },
   {
     "uuid": "22",
     "category": "t",
     "name": "Spirit Locket of Boreas",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/Item_Spirit_Locket_of_Boreas.png",
-    "source": ["- Wolf of the North Challenge Reward"],
-    "days": [1, 
-      2,  
-      3,  
-      4, 
-      5, 
-      6, 
-      7  
-      ] 
+    "source": [
+      "- Wolf of the North Challenge Reward"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
   },
   {
     "uuid": "23",
     "category": "t",
     "name": "Dvalin's Plume",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Item_Dvalin%27s_Plume.png",
-    "source": ["- Confront Stormterror"],
-    "days": [1, 
-      2,  
-      3, 
-      4,  
-      5,  
-      6,  
-      7  
-      ] 
+    "source": [
+      "- Confront Stormterror"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
   },
   {
     "uuid": "24",
     "category": "t",
     "name": "Dvalin's Claw",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Item_Dvalin%27s_Claw.png",
-    "source": ["- Confront Stormterror"],
-    "days": [1, 
-      2,  
-      3,  
-      4, 
-      5,  
-      6, 
-      7  
-      ] 
+    "source": [
+      "- Confront Stormterror"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
   },
   {
     "uuid": "25",
     "category": "t",
     "name": "Dvalin's Sigh",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Dvalin%27s_Sigh.png",
-    "source": ["- Confront Stormterror"],
-    "days": [1, 
-      2, 
-      3,  
-      4,  
-      5, 
-      6, 
-      7  
-      ] 
+    "source": [
+      "- Confront Stormterror"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
   },
   {
     "uuid": "26",
     "category": "t",
     "name": "Tusk of Monoceros Caeli",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Item_Tusk_of_Monoceros_Caeli.png",
-    "source": ["- Enter the Golden House"],
-    "days": [1, 
-      2, 
-      3,  
-      4,  
-      5,  
-      6,  
-      7  
-      ] 
+    "source": [
+      "- Enter the Golden House"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
   },
-  
   {
     "uuid": "27",
     "category": "t",
     "name": "Shard of a Foul Legacy",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Item_Shard_of_a_Foul_Legacy.png",
-    "source": ["- Childe Challenge Reward"],
-    "days": [1,  
-      2, 
-      3,  
-      4,  
-      5,  
-      6,  
-      7  
-      ] 
+    "source": [
+      "- Childe Challenge Reward"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
   },
   {
     "uuid": "28",
     "category": "t",
     "name": "Shadow of the Warrior",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Item_Shadow_of_the_Warrior.png",
-    "source": ["- Childe Challenge Reward"],
-    "days": [1,  
-      2,  
-      3,  
-      4,  
-      5,  
-      6,  
-      7  
-      ] 
+    "source": [
+      "- Childe Challenge Reward"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
   },
   {
     "uuid": "29",
     "category": "wa",
     "name": "Decarabian's",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/96/Item_Debris_of_Decarabian%27s_City.png",
-    "source": ["- Cecilia Garden"],
-    "days": [1, 
-   
-      4,   
-      7  
-      ] 
+    "source": [
+      "- Cecilia Garden"
+    ],
+    "days": [
+      1,
+      4,
+      7
+    ]
   },
   {
     "uuid": "30",
     "category": "wa",
     "name": "Boreal Wolf's",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Item_Boreal_Wolf%27s_Cracked_Tooth.png",
-    "source": ["- Cecilia Garden"],
-    "days": [ 
-      2,  
-     
-      5,  
-     
-      7  
-      ] 
-  },{
+    "source": [
+      "- Cecilia Garden"
+    ],
+    "days": [
+      2,
+      5,
+      7
+    ]
+  },
+  {
     "uuid": "31",
     "category": "wa",
     "name": "Dandelion Gladiator",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Item_Chains_of_the_Dandelion_Gladiator.png",
-    "source": ["- Cecilia Garden"],
-    "days": [ 
-      3,  
- 
-      6,  
-      7  
-      ] 
-  },{
+    "source": [
+      "- Cecilia Garden"
+    ],
+    "days": [
+      3,
+      6,
+      7
+    ]
+  },
+  {
     "uuid": "32",
     "category": "wa",
     "name": "Guyun",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Item_Lustrous_Stone_from_Guyun.png",
-    "source": ["- Hidden Palace of Lianshan Formula"],
-    "days": [1,  
- 
-      4,  
- 
-      7  
-      ] 
-  },{
+    "source": [
+      "- Hidden Palace of Lianshan Formula"
+    ],
+    "days": [
+      1,
+      4,
+      7
+    ]
+  },
+  {
     "uuid": "33",
     "category": "wa",
     "name": "Mist Veiled",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Item_Mist_Veiled_Mercury_Elixir.png",
-    "source": ["- Hidden Palace of Lianshan Formula"],
-    "days": [ 
-      2, 
-     
-      5, 
-     
-      7  
-      ] 
-  },{
+    "source": [
+      "- Hidden Palace of Lianshan Formula"
+    ],
+    "days": [
+      2,
+      5,
+      7
+    ]
+  },
+  {
     "uuid": "34",
     "category": "wa",
     "name": "Aerosiderite",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Item_Piece_of_Aerosiderite.png",
-    "source": ["- Hidden Palace of Lianshan Formula"],
-    "days": [ 
-      3, 
- 
-      6,  
-      7 
-      ] 
-  },{
+    "source": [
+      "- Hidden Palace of Lianshan Formula"
+    ],
+    "days": [
+      3,
+      6,
+      7
+    ]
+  },
+  {
     "uuid": "35",
     "category": "ma",
     "name": "Slime Condensate",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Item_Slime_Condensate.png",
-    "source": ["- Dropped by slimes"],
-    "days": [1, 
-      2,  
-      3, 
-      4,  
-      5,  
-      6, 
-      7 
-      ] 
-  },{
+    "source": [
+      "- Dropped by slimes"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
     "uuid": "36",
     "category": "ma",
     "name": "Damaged Mask",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Damaged_Mask.png",
-    "source": ["- Dropped by hilichurls"],
-    "days": [1, 
-      2, 
-      3,  
-      4, 
-      5, 
-      6,  
-      7  
-      ] 
-  },{
+    "source": [
+      "- Dropped by hilichurls"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
     "uuid": "37",
     "category": "ma",
     "name": "Firm Arrowhead",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Item_Firm_Arrowhead.png",
-    "source": ["- Dropped by Ranged Hilichurls"],
-    "days": [1, 
-      2,  
-      3, 
-      4,  
-      5, 
-      6,  
-      7  
-      ] 
+    "source": [
+      "- Dropped by Ranged Hilichurls"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
   },
   {
     "uuid": "38",
     "category": "ma",
     "name": "Divining Scroll",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/74/Item_Divining_Scroll.png",
-    "source": ["- Dropped by samachurls"],
-    "days": [1,  
-      2,  
-      3, 
-      4, 
-      5, 
-      6, 
-      7  
-      ] 
-  },{
+    "source": [
+      "- Dropped by samachurls"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
     "uuid": "39",
     "category": "ma",
     "name": "Heavy Horn",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c0/Item_Heavy_Horn.png",
-    "source": ["- Dropped by Mitachurls"],
-    "days": [1, 
-      2,  
-      3,  
-      4,  
-      5,  
-      6,  
-      7  
-      ] 
-  },{
+    "source": [
+      "- Dropped by Mitachurls"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
     "uuid": "40",
     "category": "ma",
     "name": "Dead Ley Line Branch",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Item_Dead_Ley_Line_Branch.png",
-    "source": ["- Dropped by Abyss Mages"],
-    "days": [1, 
-      2,  
-      3,  
-      4,  
-      5,  
-      6,  
-      7 
-      ] 
-  },{
+    "source": [
+      "- Dropped by Abyss Mages"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
     "uuid": "41",
     "category": "ma",
     "name": "Chaos Device",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Item_Chaos_Device.png",
-    "source": ["- Dropped by Ruin Guards" , "- Dropped by Ruin Hunters"],
-    "days": [1, 
-      2,  
-      3,  
-      4,  
-      5,  
-      6,  
-      7  
-      ] 
-  },{
+    "source": [
+      "- Dropped by Ruin Guards",
+      "- Dropped by Ruin Hunters"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
     "uuid": "42",
     "category": "ma",
     "name": "Mist Grass Pollen",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Mist_Grass_Pollen.png",
-    "source": ["- Dropped by Electro Cicin Mages"],
-    "days": [1, 
-      2, 
-      3, 
-      4,  
-      5,  
-      6,  
-      7  
-      ] 
-  },{
+    "source": [
+      "- Dropped by Electro Cicin Mages"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
     "uuid": "43",
     "category": "ma",
     "name": "Hunter's Sacrificial Knife",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/28/Item_Hunter%27s_Sacrificial_Knife.png",
-    "source": ["- Dropped by Agents"],
-    "days": [1,  
-      2,  
-      3,  
-      4,  
-      5,  
-      6,  
-      7  
-      ] 
-  },{
+    "source": [
+      "- Dropped by Agents"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
     "uuid": "44",
     "category": "ma",
     "name": "Recruit's Insignia",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Item_Recruit%27s_Insignia.png",
-    "source": ["- Dropped by Skirmishers"],
-    "days": [1,  
-      2, 
-      3,  
-      4, 
-      5,  
-      6,  
-      7 ]
-  },{
+    "source": [
+      "- Dropped by Skirmishers"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
     "uuid": "45",
     "category": "ma",
     "name": "Treasure Hoarder Insignia",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Item_Treasure_Hoarder_Insignia.png",
-    "source": ["- Dropped by Treasure Hoarders"],
-    "days": [1,  
-      2,  
-      3, 
-      4, 
-      5,  
-      6,  
-      7  
-      ] 
-  },{
+    "source": [
+      "- Dropped by Treasure Hoarders"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
     "uuid": "46",
     "category": "ma",
     "name": "Fragile Bone Shard",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Item_Fragile_Bone_Shard.png",
-    "source": ["- Dropped by Geovishap Hatchlings"],
-    "days": [1,  
-      2,  
-      3, 
-      4,  
-      5, 
-      6,  
-      7  
-      ] 
-  },{
+    "source": [
+      "- Dropped by Geovishap Hatchlings"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
     "uuid": "47",
     "category": "ma",
     "name": "Whopperflower Nectar",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Item_Whopperflower_Nectar.png",
-    "source": ["- Dropped by Whopperflower"],
-    "days": [1,  
-      2,  
-      3,  
-      4,  
-      5,  
-      6,  
-      7  
-      ] 
-  },{
+    "source": [
+      "- Dropped by Whopperflower"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
     "uuid": "48",
     "category": "pa",
     "name": "Small Lamp Grass",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Item_Small_Lamp_Grass.png ",
-    "source": ["- Found in the wild at night", "- Found in Wolvendom", "- Found in the Whispering Woods", "- Sold by Flora"],
-    "days": [1,  
-      2,  
-      3, 
-      4, 
-      5, 
-      6,  
-      7 
-      ] 
-  },{
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Item_Small_Lamp_Grass.png",
+    "source": [
+      "- Found in the wild at night",
+      "- Found in Wolvendom",
+      "- Found in the Whispering Woods",
+      "- Sold by Flora"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
     "uuid": "49",
     "category": "pa",
     "name": "Valberry",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/ed/Item_Valberry.png",
-    "source": ["- Found in the wild around Stormbearer Mountains", "- Sold by Chloris"],
-    "days": [1,  
-      2,  
-      3,  
-      4,  
-      5,  
-      6,  
-      7  
-      ] 
-  },{
+    "source": [
+      "- Found in the wild around Stormbearer Mountains",
+      "- Sold by Chloris"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
     "uuid": "50",
     "category": "pa",
     "name": "Windwheel Aster",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Windwheel_Aster.png",
-    "source": ["- Found near the Statue of The Seven at Windrise", "- Found under trees in the wild", "- Found in Stormterror's Lair", "- Sold by Flora"],
-    "days": [1,  
-      2, 
-      3, 
-      4,  
-      5, 
-      6, 
-      7  
-      ] 
-  },{
+    "source": [
+      "- Found near the Statue of The Seven at Windrise",
+      "- Found under trees in the wild",
+      "- Found in Stormterror's Lair",
+      "- Sold by Flora"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
     "uuid": "51",
     "category": "pa",
     "name": "Wolfhook",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Item_Wolfhook.png",
-    "source": ["- Found in the wild", "- Found in Wolvendom", "- Sold by Chloris"],
-    "days": [1,  
-      2, 
-      3,  
-      4,  
-      5,  
-      6,  
-      7  
-      ] 
-  },{
+    "source": [
+      "- Found in the wild",
+      "- Found in Wolvendom",
+      "- Sold by Chloris"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
     "uuid": "52",
     "category": "pa",
     "name": "Dandelion_Seed",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Item_Dandelion_Seed.png",
-    "source": ["- Found in the wild", "- Found at Mondstadt gates"],
-    "days": [1,  
-      2,  
-      3,  
-      4,  
-      5,  
-      6,  
-      7 
-      ] 
-  },{
+    "source": [
+      "- Found in the wild",
+      "- Found at Mondstadt gates"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
     "uuid": "53",
     "category": "pa",
     "name": "Cecilia",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Item_Cecilia.png",
     "source": [
-      "- Found in the wild", "- Found on Starsnatch Cliff",
+      "- Found in the wild",
+      "- Found on Starsnatch Cliff",
       "- Sold by Flora",
-      "- Given by an NPC at the top of Starsnatch Cliff"],
-    "days": [1,  
-      2,  
-      3,  
-      4,  
-      5,  
-      6, 
-      7  
-      ] 
-  },{
+      "- Given by an NPC at the top of Starsnatch Cliff"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
     "uuid": "54",
     "category": "pa",
     "name": "Mushroom",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Philanemo_Mushroom.png",
-    "source": ["- Found under the eaves of houses", "- Sold by Chloris"],
-    "days": [1, 
-      2,  
-      3,  
-      4,  
-      5,  
-      6, 
-      7 
-      ] 
-  },{
+    "source": [
+      "- Found under the eaves of houses",
+      "- Sold by Chloris"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
     "uuid": "55",
     "category": "pa",
     "name": "Calla Lily",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Item_Calla_Lily.png",
-    "source": ["- Found near lakes", "- Found in Springvale", "- Sold by Flora"],
-    "days": [1,  
-      2, 
-      3, 
-      4,  
-      5, 
-      6,  
-      7  
-      ] 
-  },{
+    "source": [
+      "- Found near lakes",
+      "- Found in Springvale",
+      "- Sold by Flora"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
     "uuid": "56",
     "category": "pa",
     "name": "Cor Lapis",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Item_Cor_Lapis.png/revision",
-    "source": ["- Found under cliffs in Liyue", "- Found in Mt. Hulao"],
-    "days": [1,  
-      2,  
-      3, 
-      4,  
-      5,  
-      6,  
-      7  
-      ] 
-  },{
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Item_Cor_Lapis.png",
+    "source": [
+      "- Found under cliffs in Liyue",
+      "- Found in Mt. Hulao"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
     "uuid": "57",
     "category": "pa",
     "name": "Jueyun Chili",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/13/Item_Jueyun_Chili.png",
-    "source": ["- Found in the wild", "- Found in Qingce Village"],
-    "days": [1,  
-      2,  
-      3,  
-      4,  
-      5,  
-      6,  
-      7  
-      ] 
-  },{
+    "source": [
+      "- Found in the wild",
+      "- Found in Qingce Village"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
     "uuid": "58",
     "category": "pa",
     "name": "Qingxin",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2d/Item_Qingxin.png",
-    "source": ["- Found in the heights of stone forests", "- Sold by Bubu Pharmacy", "- Found in Guyun Stone Forest"],
-    "days": [1, 
-      2,  
-      3,  
-      4,  
-      5,  
-      6,  
-      7  
-      ] 
-  },{
+    "source": [
+      "- Found in the heights of stone forests",
+      "- Sold by Bubu Pharmacy",
+      "- Found in Guyun Stone Forest"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
     "uuid": "59",
     "category": "pa",
     "name": "Violetgrass",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Item_Violetgrass.png",
-    "source": ["- Found near cliffs in Liyue"],
-    "days": [1, 
-      2,  
-      3,  
-      4,  
-      5,  
-      6,  
-      7  
-      ] 
-  },{
+    "source": [
+      "- Found near cliffs in Liyue"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
     "uuid": "60",
     "category": "pa",
     "name": "Noctilucous Jade",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Noctilucous_Jade.png",
-    "source": ["- Found in caves in Liyue", "- Found in Mingyun Village", "- Sold by Shitou"],
-    "days": [1,  
-      2,  
-      3,  
-      4,  
-      5, 
-      6,  
-      7  
-      ] 
-  },{
+    "source": [
+      "- Found in caves in Liyue",
+      "- Found in Mingyun Village",
+      "- Sold by Shitou"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
     "uuid": "61",
     "category": "",
     "name": "Silk Flower",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/37/Item_Silk_Flower.png",
-    "source": ["- Found near Yujing Terrace, Liyue Harbor", "- Sold by Ms. Bai", "- Found near Wangshu Inn"],
-    "days": [1,  
-      2,  
-      3,  
-      4,  
-      5, 
-      6, 
-      7  
-      ] 
-  },{
+    "source": [
+      "- Found near Yujing Terrace, Liyue Harbor",
+      "- Sold by Ms. Bai",
+      "- Found near Wangshu Inn"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
     "uuid": "62",
     "category": "pa",
     "name": "Glaze Lily",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Item_Glaze_Lily.png",
-    "source": ["- Found in the wild", "- Purchased from Ms. Bai", "- Found in Qingce Village"],
-    "days": [1,  
-      2,  
-      3,  
-      4,  
-      5,  
-      6, 
-      7  
-      ] 
-  },{
+    "source": [
+      "- Found in the wild",
+      "- Purchased from Ms. Bai",
+      "- Found in Qingce Village"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
     "uuid": "63",
     "category": "pa",
     "name": "Starconch",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Item_Starconch.png",
-    "source": ["- Found on the beaches of Liyue"],
-    "days": [1,  
-      2, 
-      3, 
-      4, 
-      5, 
-      6,  
-      7  
-      ] 
+    "source": [
+      "- Found on the beaches of Liyue"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
   }
 ]
