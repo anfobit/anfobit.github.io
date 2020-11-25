@@ -241,5 +241,27 @@
       "talent": [
         "19", "36", "20"
       ]
+    },
+    {
+      "uuid": "25",
+      "name": "Zhongli",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Character_Zhongli_Thumb.png",
+      "ascension": [
+        "5", "56", "35", "11"
+      ],
+      "talent": [
+        "19", "35", "26" 
+      ]
+    },
+    {
+      "uuid": "26",
+      "name": "Xinyan",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Character_Xinyan_Thumb.png",
+      "ascension": [
+         "7", "59", "13", "45"
+      ],
+      "talent": [
+         "19", "45", "26"
+      ]
     }
   ]
