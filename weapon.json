@@ -828,5 +828,22 @@
       "ascension": [
         "29", "39", "36" 
       ]
+    },{
+      "uuid": "86",
+      "name": "Vortex Vanquisher",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Weapon_Vortex_Vanquisher.png",
+      "type": "Polearm",
+      "ascension": [
+        "34", "46", "45" 
+      ]
+    },{
+      "uuid": "87",
+      "name": "Royal Spear",
+      "image": "https://genshin.honeyhunterworld.com/img/weapon/royal_spear.png",
+      "type": "Polearm",
+      "ascension": [
+        "33", "42", "44" 
+      ]
     }
+    
   ]
