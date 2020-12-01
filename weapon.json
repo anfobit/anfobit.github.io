@@ -844,6 +844,14 @@
       "ascension": [
         "33", "42", "44" 
       ]
+    },{
+      "uuid": "88",
+      "name": "The Unforged",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f7/Weapon_The_Unforged.png",
+      "type": "Claymore",
+      "ascension": [
+        "33", "42", "45" 
+      ]
     }
     
   ]
