@@ -78,7 +78,7 @@
     },
     {
       "uuid": "8",
-      "name": "Weapon Lion's Roar",
+      "name": "Lion's Roar",
       "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e6/Weapon_Lion%27s_Roar.png",
       "type": "Sword",
       "ascension": [
@@ -511,7 +511,7 @@
       "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/25/Weapon_Iron_Point.png",
       "type": "Polearm",
       "ascension": [
-        "52",
+        "31",
         "41",
         "38"
       ]
@@ -650,7 +650,7 @@
       "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/74/Weapon_Debate_Club.png",
       "type": "Claymore",
       "ascension": [
-        "33", "42", "38" 
+        "33", "42", "36" 
       ]
     },{
       "uuid": "64",
@@ -714,7 +714,7 @@
       "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Weapon_Eye_of_Perception.png",
       "type": "Catalyst",
       "ascension": [
-        "33", "42", "38" 
+        "33", "42", "36" 
       ]
     },{
       "uuid": "72",
@@ -859,6 +859,30 @@
       "type": "Bow",
       "ascension": [
         "31", "41", "35" 
+      ]
+    },{
+      "uuid": "90",
+      "name": "Blackcliff Amulet",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/21/Weapon_Blackcliff_Amulet.png",
+      "type": "Catalyst",
+      "ascension": [
+        "32", "43", "38" 
+      ]
+    },{
+      "uuid": "91",
+      "name": "Blackcliff Longsword",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Weapon_Blackcliff_Longsword.png",
+      "type": "Sword",
+      "ascension": [
+        "32", "43", "37" 
+      ]
+    },{
+      "uuid": "92",
+      "name": "Royal Longsword",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cd/Weapon_Royal_Longsword.png",
+      "type": "Sword",
+      "ascension": [
+        "29", "39", "37" 
       ]
     }
     
