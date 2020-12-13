@@ -290,4 +290,29 @@
        "19", "45", "26"
     ]
   }
+  ,
+  {
+    "uuid": "27",
+    "name": "Albedo",
+    "artifact" : "Sword",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Character_Albedo_Thumb.png",
+    "ascension": [
+       "5", "11", "53", "38"
+    ],
+    "talent": [
+       "16", "38", "26"
+    ]
+  },
+  {
+    "uuid": "28",
+    "name": "Ganyu",
+    "artifact" : "Bow",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0a/Character_Ganyu_Thumb.png",
+    "ascension": [
+       "3", "9", "58", "47"
+    ],
+    "talent": [
+       "18", "47", "28"
+    ]
+  }
 ]
