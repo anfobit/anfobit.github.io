@@ -884,6 +884,14 @@
       "ascension": [
         "29", "39", "37" 
       ]
+    },{
+      "uuid": "93",
+      "name": "Summit Shaper",
+      "image": "https://yarvis.net/img/summit-shaper.png",
+      "type": "Sword",
+      "ascension": [
+        "32", "43", "36" 
+      ]
     }
     
   ]
