@@ -892,6 +892,38 @@
       "ascension": [
         "32", "43", "36" 
       ]
+    },{
+      "uuid": "94",
+      "name": "Dragonspine Spear",
+      "image": "https://yarvis.net/img/dragonspine-spear.png",
+      "type": "Polearm",
+      "ascension": [
+        "30", "42", "44" 
+      ]
+    },{
+      "uuid": "95",
+      "name": "Festering Desire",
+      "image": "https://yarvis.net/img/festering-fang.png",
+      "type": "Sword",
+      "ascension": [
+        "31", "39", "44" 
+      ]
+    },{
+      "uuid": "96",
+      "name": "Snow-Tombed Starsilver",
+      "image": "https://yarvis.net/img/snow-tombed-starsilver.png",
+      "type": "Claymore",
+      "ascension": [
+        "29", "39", "35" 
+      ]
+    },{
+      "uuid": "97",
+      "name": "Frostbearer",
+      "image": "https://yarvis.net/img/frostbearer.png",
+      "type": "Catalyst",
+      "ascension": [
+        "31", "41", "47" 
+      ]
     }
     
   ]
