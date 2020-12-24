@@ -441,8 +441,8 @@
     },
     {
       "uuid": "41",
-      "name": "Prototype Grudge",
-      "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Weapon_Prototype_Grudge.png",
+      "name": "Prototype Starglitter",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/Weapon_Prototype_Starglitter.png",
       "type": "Polearm",
       "ascension": [
         "34",
@@ -606,8 +606,8 @@
       ]
     },{
       "uuid": "58",
-      "name": "Prototype Aminus",
-      "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/68/Weapon_Prototype_Aminus.png",
+      "name": "Prototype Archaic",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ab/Weapon_Prototype_Archaic.png",
       "type": "Claymore",
       "ascension": [ 
         "34", "46", "36"
@@ -862,8 +862,8 @@
       ]
     },{
       "uuid": "90",
-      "name": "Blackcliff Amulet",
-      "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/21/Weapon_Blackcliff_Amulet.png",
+      "name": "Blackcliff Agate",
+      "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Weapon_Blackcliff_Agate.png",
       "type": "Catalyst",
       "ascension": [
         "32", "43", "38" 
