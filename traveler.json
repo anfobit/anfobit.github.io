@@ -7,6 +7,9 @@
         "ascension": [
           "1", "50", "36"
         ],
+        "talent": [
+            "14", "15", "16", "38", "25"
+        ],
         "talent1": [
             "14", "15", "16", "38", "25"
         ],
@@ -24,6 +27,9 @@
         "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Character_Traveler_Thumb.png",
         "ascension": [
           "1", "50", "36"
+        ],
+        "talent": [
+            "14", "15", "16", "38", "25", "17", "18", "19", "37", "20"
         ],
         "talent1": [
             "14", "15", "16", "38", "25"
