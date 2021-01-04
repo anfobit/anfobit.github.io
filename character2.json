@@ -1,0 +1,318 @@
+[
+  {
+    "uuid": "1",
+    "name": "Amber",
+    "artifact" : "Bow",
+    "image": "https://yarvis.net/item/Character_Amber_Thumb.png",
+    "ascension": [
+      "7", "13", "48", "37"
+    ],
+    "talent": [
+       "14", "37", "25"
+    ]
+  },{
+    "uuid": "2",
+    "name": "Barbara",
+    "artifact" : "Catalyst",
+    "image": "https://yarvis.net/item/Character_Barbara_Thumb.png",
+    "ascension": [
+      "6", "12", "54", "38"
+    ],
+    "talent": [
+      "14", "38", "21"
+    ]
+  },{
+    "uuid": "3",
+    "name": "Beidou",
+    "artifact" : "Claymore",
+    "image": "https://yarvis.net/item/Character_Beidou_Thumb.png",
+    "ascension": [
+      "4", "10", "60", "45"
+    ],
+    "talent": [
+      "19", "45", "25"
+    ]
+  },{
+    "uuid": "4",
+    "name": "Bennett",
+    "artifact" : "Sword",
+    "image": "https://yarvis.net/item/Character_Bennett_Thumb.png",
+    "ascension": [
+      "7", "13", "50", "45"
+    ],
+    "talent": [
+      "15", "45", "23"
+    ]
+  },{
+    "uuid": "5",
+    "name": "Chongyun",
+    "artifact" : "Claymore",
+    "image": "https://yarvis.net/item/Character_Chongyun_Thumb.png",
+    "ascension": [
+      "3", "9", "56", "36"
+    ],
+    "talent": [
+      "18", "36", "25"
+    ]
+  },{
+    "uuid": "6",
+    "name": "Diluc",
+    "artifact" : "Claymore",
+    "image": "https://yarvis.net/item/Character_Diluc_Thumb.png",
+    "ascension": [
+      "7", "13", "48", "44"
+    ],
+    "talent": [
+      "15", "44", "23"
+    ]
+  },{
+    "uuid": "7",
+    "name": "Diona",
+    "artifact" : "Bow",
+    "image": "https://yarvis.net/item/Character_Diona_Thumb.png",
+    "ascension": [
+      "3", "9", "55", "37"
+    ],
+    "talent": [
+      "14", "37", "27"
+    ]
+  },{
+    "uuid": "8",
+    "name": "Fischl",
+    "artifact" : "Bow",
+    "image": "https://yarvis.net/item/Character_Fischl_Thumb.png",
+    "ascension": [
+      "4", "10", "48", "37"
+    ],
+    "talent": [
+      "16", "37", "22"
+    ]
+  },{
+    "uuid": "9",
+    "name": "Jean",
+    "artifact" : "Sword",
+    "image": "https://yarvis.net/item/Character_Jean_Thumb.png",
+    "ascension": [
+      "2", "8", "52", "36"
+    ],
+    "talent": [
+      "15", "36", "23"
+    ]
+  },{
+    "uuid": "10",
+    "name": "Kaeya",
+    "artifact" : "Sword",
+    "image": "https://yarvis.net/item/Character_Kaeya_Thumb.png",
+    "ascension": [
+      "3", "9", "55", "45"
+    ],
+    "talent": [
+      "16", "45", "22"
+    ]
+  },{
+    "uuid": "11",
+    "name": "Keqing",
+    "artifact" : "Sword",
+    "image": "https://yarvis.net/item/Character_Keqing_Thumb.png",
+    "ascension": [
+      "4", "10", "56", "47"
+    ],
+    "talent": [
+      "17", "47", "21"
+    ]
+  },{
+    "uuid": "12",
+    "name": "Klee",
+    "artifact" : "Catalyst",
+    "image": "https://yarvis.net/item/Character_Klee_Thumb.png",
+    "ascension": [
+      "7", "13", "54", "38"
+    ],
+    "talent": [
+      "14", "38", "21"
+    ]
+  },{
+    "uuid": "13",
+    "name": "Lisa",
+    "artifact" : "Catalyst",
+    "image": "https://yarvis.net/item/Character_Lisa_Thumb.png",
+    "ascension": [
+      "4", "10", "49", "35"
+    ],
+    "talent": [
+      "16", "35", "24"
+    ]
+  },{
+    "uuid": "14",
+    "name": "Mona",
+    "artifact" : "Catalyst",
+    "image": "https://yarvis.net/item/Character_Mona_Thumb.png",
+    "ascension": [
+      "6", "12","54", "47"
+    ],
+    "talent": [
+      "15", "47", "21"
+    ]
+  },{
+    "uuid": "15",
+    "name": "Ningguang",
+    "artifact" : "Catalyst",
+    "image": "https://yarvis.net/item/Character_Ningguang_Thumb.png",
+    "ascension": [
+      "5", "11", "62", "44"
+    ],
+    "talent": [
+      "17", "44", "22"
+    ]
+  },{
+    "uuid": "16",
+    "name": "Noelle",
+    "artifact" : "Claymore",
+    "image": "https://yarvis.net/item/Character_Noelle_Thumb.png",
+    "ascension": [
+      "5", "11", "49", "36"
+    ],
+    "talent": [
+      "15", "36", "24"
+    ]
+  },{
+    "uuid": "17",
+    "name": "Qiqi",
+    "artifact" : "Sword",
+    "image": "https://yarvis.net/item/Character_Qiqi_Thumb.png",
+    "ascension": [
+      "3", "9", "59", "38"
+    ],
+    "talent": [
+      "17", "38", "20"
+    ]
+  },{
+    "uuid": "18",
+    "name": "Razor",
+    "artifact" : "Claymore",
+    "image": "https://yarvis.net/item/Character_Razor_Thumb.png",
+    "ascension": [
+      "4", "10", "51", "36"
+    ],
+    "talent": [
+      "15", "36", "24"
+    ]
+  },{
+    "uuid": "19",
+    "name": "Sucrose",
+    "artifact" : "Catalyst",
+    "image": "https://yarvis.net/item/Character_Sucrose_Thumb.png",
+    "ascension": [
+      "2", "8", "50", "47"
+    ],
+    "talent": [
+      "14", "47", "22"
+    ]
+  },
+  {
+    "uuid": "20",
+    "name": "Tartaglia",
+    "artifact" : "Bow",
+    "image": "https://yarvis.net/item/Character_Tartaglia_Thumb.png",
+    "ascension": [
+      "6", "12", "63", "44"
+    ],
+    "talent": [
+      "14", "44", "27"
+    ]
+  },{
+    "uuid": "21",
+    "name": "Traveler",
+    "artifact" : "Sword",
+    "image": "https://yarvis.net/item/Character_Traveler_Thumb.png",
+    "ascension": [
+      "1", "50", "36"
+    ],
+    "talent": [
+       
+    ]
+  },{
+    "uuid": "22",
+    "name": "Venti",
+    "artifact" : "Bow",
+    "image": "https://yarvis.net/item/Character_Venti_Thumb.png",
+    "ascension": [
+      "2", "8", "53", "35"
+    ],
+    "talent": [
+      "16", "35", "20"
+    ]
+  },{
+    "uuid": "23",
+    "name": "Xiangling",
+    "artifact" : "Polearm",
+    "image": "https://yarvis.net/item/Character_Xiangling_Thumb.png",
+    "ascension": [
+      "7", "13", "57", "35"
+    ],
+    "talent": [
+      "18", "35", "24"
+    ]
+  },
+  {
+    "uuid": "24",
+    "name": "Xingqiu",
+    "artifact" : "Sword",
+    "image": "https://yarvis.net/item/Character_Xingqiu_Thumb.png",
+    "ascension": [
+      "6", "12", "61", "36"
+    ],
+    "talent": [
+      "19", "36", "20"
+    ]
+  },
+  {
+    "uuid": "25",
+    "name": "Zhongli",
+    "artifact" : "Polearm",
+    "image": "https://yarvis.net/item/Character_Zhongli_Thumb.png",
+    "ascension": [
+      "5", "56", "35", "11"
+    ],
+    "talent": [
+      "19", "35", "26" 
+    ]
+  },
+  {
+    "uuid": "26",
+    "name": "Xinyan",
+    "artifact" : "Claymore",
+    "image": "https://yarvis.net/item/Character_Xinyan_Thumb.png",
+    "ascension": [
+       "7", "59", "13", "45"
+    ],
+    "talent": [
+       "19", "45", "26"
+    ]
+  }
+  ,
+  {
+    "uuid": "27",
+    "name": "Albedo",
+    "artifact" : "Sword",
+    "image": "https://yarvis.net/item/Character_Albedo_Thumb.png",
+    "ascension": [
+       "5", "11", "53", "38"
+    ],
+    "talent": [
+       "16", "38", "26"
+    ]
+  },
+  {
+    "uuid": "28",
+    "name": "Ganyu",
+    "artifact" : "Bow",
+    "image": "https://yarvis.net/item/Character_Ganyu_Thumb.png",
+    "ascension": [
+       "3", "9", "58", "47"
+    ],
+    "talent": [
+       "18", "47", "28"
+    ]
+  }
+]

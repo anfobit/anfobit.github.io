@@ -1,0 +1,929 @@
+[
+  {
+    "uuid": "1",
+    "name": "Skyward Blade",
+    "image": "https://yarvis.net/item/Weapon_Skyward_Blade.png",
+    "type": "Sword",
+    "ascension": [
+      "30",
+      "40",
+      "35"
+    ]
+  },
+  {
+    "uuid": "2",
+    "name": "Aquila Favonia",
+    "image": "https://yarvis.net/item/Weapon_Aquila_Favonia.png",
+    "type": "Sword",
+    "ascension": [
+      "29",
+      "39",
+      "37"
+    ]
+  },
+  {
+    "uuid": "3",
+    "name": "Favonius Sword",
+    "image": "https://yarvis.net/item/Weapon_Favonius_Sword.png",
+    "type": "Sword",
+    "ascension": [
+      "29",
+      "39",
+      "37"
+    ]
+  },
+  {
+    "uuid": "4",
+    "name": "The Black Sword",
+    "image": "https://yarvis.net/item/Weapon_The_Black_Sword.png",
+    "type": "Sword",
+    "ascension": [
+      "30",
+      "40",
+      "35"
+    ]
+  },
+  {
+    "uuid": "5",
+    "name": "The Flute",
+    "image": "https://yarvis.net/item/Weapon_The_Flute.png",
+    "type": "Sword",
+    "ascension": [
+      "30",
+      "40",
+      "35"
+    ]
+  },
+  {
+    "uuid": "6",
+    "name": "Sacrificial Sword",
+    "image": "https://yarvis.net/item/Weapon_Sacrificial_Sword.png",
+    "type": "Sword",
+    "ascension": [
+      "31",
+      "41",
+      "38"
+    ]
+  },
+  {
+    "uuid": "7",
+    "name": "Prototype Rancour",
+    "image": "https://yarvis.net/item/Weapon_Prototype_Rancour.png",
+    "type": "Sword",
+    "ascension": [
+      "33",
+      "42",
+      "44"
+    ]
+  },
+  {
+    "uuid": "8",
+    "name": "Lion's Roar",
+    "image": "https://yarvis.net/item/Weapon_Lions_Roar.png",
+    "type": "Sword",
+    "ascension": [
+      "32",
+      "43",
+      "45"
+    ]
+  },
+  {
+    "uuid": "9",
+    "name": "Iron Sting",
+    "image": "https://yarvis.net/item/Weapon_Iron_Sting.png",
+    "type": "Sword",
+    "ascension": [
+      "34",
+      "46",
+      "47"
+    ]
+  },
+  {
+    "uuid": "10",
+    "name": "Sword of Descension",
+    "image": "https://yarvis.net/item/Weapon_Sword_of_Descension.png",
+    "type": "Sword",
+    "ascension": [
+      "30",
+      "40",
+      "45"
+    ]
+  },
+  {
+    "uuid": "11",
+    "name": "Skyrider Sword",
+    "image": "https://yarvis.net/item/Weapon_Skyrider_Sword.png",
+    "type": "Sword",
+    "ascension": [
+      "34",
+      "46",
+      "44"
+    ]
+  },
+  {
+    "uuid": "12",
+    "name": "Fillet Blade",
+    "image": "https://yarvis.net/item/Weapon_Fillet_Blade.png",
+    "type": "Sword",
+    "ascension": [
+      "33",
+      "42",
+      "45"
+    ]
+  },
+  {
+    "uuid": "13",
+    "name": "Traveler's_Handy_Sword",
+    "image": "https://yarvis.net/item/Weapon_Travelers_Handy_Sword.png",
+    "type": "Sword",
+    "ascension": [
+      "31",
+      "41",
+      "38"
+    ]
+  },
+  {
+    "uuid": "14",
+    "name": "Harbinger of Dawn",
+    "image": "https://yarvis.net/item/Weapon_Harbinger_of_Dawn.png",
+    "type": "Sword",
+    "ascension": [
+      "30",
+      "40",
+      "35"
+    ]
+  },
+  {
+    "uuid": "15",
+    "name": "Dark Iron Sword",
+    "image": "https://yarvis.net/item/Weapon_Dark_Iron_Sword.png",
+    "type": "Sword",
+    "ascension": [
+      "32",
+      "43",
+      "36"
+    ]
+  },
+  {
+    "uuid": "16",
+    "name": "Cool Steel",
+    "image": "https://yarvis.net/item/Weapon_Cool_Steel.png",
+    "type": "Sword",
+    "ascension": [
+      "29",
+      "39",
+      "37"
+    ]
+  },
+  {
+    "uuid": "17",
+    "name": "Silver Sword",
+    "image": "https://yarvis.net/item/Weapon_Silver_Sword.png",
+    "type": "Sword",
+    "ascension": [
+      "29",
+      "39",
+      "37"
+    ]
+  },
+  {
+    "uuid": "18",
+    "name": "Dull Blade",
+    "image": "https://yarvis.net/item/Weapon_Dull_Blade.png",
+    "type": "Sword",
+    "ascension": [
+      "29",
+      "39",
+      "37"
+    ]
+  },
+  {
+    "uuid": "19",
+    "name": "Amos Bow",
+    "image": "https://yarvis.net/item/Weapon_Amos_Bow.png",
+    "type": "Bow",
+    "ascension": [
+      "31",
+      "41",
+      "35"
+    ]
+  },
+  {
+    "uuid": "20",
+    "name": "Skyward Harp",
+    "image": "https://yarvis.net/item/Weapon_Skyward_Harp.png",
+    "type": "Bow",
+    "ascension": [
+      "30",
+      "40",
+      "37"
+    ]
+  },
+  {
+    "uuid": "21",
+    "name": "Compound Bow",
+    "image": "https://yarvis.net/item/Weapon_Compound_Bow.png",
+    "type": "Bow",
+    "ascension": [
+      "34",
+      "46",
+      "44"
+    ]
+  },
+  {
+    "uuid": "22",
+    "name": "Blackcliff Warbow",
+    "image": "https://yarvis.net/item/Weapon_Blackcliff_Warbow.png",
+    "type": "Bow",
+    "ascension": [
+      "32",
+      "43",
+      "45"
+    ]
+  },
+  {
+    "uuid": "23",
+    "name": "The Viridescent Hunt",
+    "image": "https://yarvis.net/item/Weapon_The_Viridescent_Hunt.png",
+    "type": "Bow",
+    "ascension": [
+      "29",
+      "39",
+      "37"
+    ]
+  },
+  {
+    "uuid": "24",
+    "name": "Prototype Crescent",
+    "image": "https://yarvis.net/item/Weapon_Prototype_Crescent.png",
+    "type": "Bow",
+    "ascension": [
+      "33",
+      "42",
+      "45"
+    ]
+  },
+  {
+    "uuid": "25",
+    "name": "Sacrificial Bow",
+    "image": "https://yarvis.net/item/Weapon_Sacrificial_Bow.png",
+    "type": "Bow",
+    "ascension": [
+      "30",
+      "40",
+      "35"
+    ]
+  },
+  {
+    "uuid": "26",
+    "name": "Alley Hunter",
+    "image": "https://yarvis.net/item/Weapon_Alley_Hunter.png",
+    "type": "Bow",
+    "ascension": [
+      "30",
+      "40",
+      "45"
+    ]
+  },
+  {
+    "uuid": "27",
+    "name": "Rust",
+    "image": "https://yarvis.net/item/Weapon_Rust.png",
+    "type": "Bow",
+    "ascension": [
+      "32",
+      "43",
+      "36"
+    ]
+  },
+  {
+    "uuid": "28",
+    "name": "The Stringless",
+    "image": "https://yarvis.net/item/Weapon_The_Stringless.png",
+    "type": "Bow",
+    "ascension": [
+      "29",
+      "39",
+      "37"
+    ]
+  },
+  {
+    "uuid": "29",
+    "name": "Favonius Warbow",
+    "image": "https://yarvis.net/item/Weapon_Favonius_Warbow.png",
+    "type": "Bow",
+    "ascension": [
+      "31",
+      "41",
+      "47"
+    ]
+  },
+  {
+    "uuid": "30",
+    "name": "Sharpshooter's_Oath",
+    "image": "https://yarvis.net/item/Weapon_Sharpshooters_Oath.png",
+    "type": "Bow",
+    "ascension": [
+      "30",
+      "40",
+      "35"
+    ]
+  },
+  {
+    "uuid": "31",
+    "name": "Slingshot",
+    "image": "https://yarvis.net/item/Weapon_Slingshot.png",
+    "type": "Bow",
+    "ascension": [
+      "32",
+      "43",
+      "36"
+    ]
+  },
+  {
+    "uuid": "32",
+    "name": "Raven Bow",
+    "image": "https://yarvis.net/item/Weapon_Raven_Bow.png",
+    "type": "Bow",
+    "ascension": [
+      "29",
+      "39",
+      "37"
+    ]
+  },
+  {
+    "uuid": "33",
+    "name": "Messenger",
+    "image": "https://yarvis.net/item/Weapon_Messenger.png",
+    "type": "Bow",
+    "ascension": [
+      "33",
+      "42",
+      "45"
+    ]
+  },
+  {
+    "uuid": "34",
+    "name": "Recurve Bow",
+    "image": "https://yarvis.net/item/Weapon_Recurve_Bow.png",
+    "type": "Bow",
+    "ascension": [
+      "31",
+      "41",
+      "38"
+    ]
+  },
+  {
+    "uuid": "35",
+    "name": "Seasoned_Hunter's_Bow",
+    "image": "https://yarvis.net/item/Weapon_Seasoned_Hunters_Bow.png",
+    "type": "Bow",
+    "ascension": [
+      "30",
+      "40",
+      "45"
+    ]
+  },
+  {
+    "uuid": "36",
+    "name": "Hunter's_Bow",
+    "image": "https://yarvis.net/item/Weapon_Hunters_Bow.png",
+    "type": "Bow",
+    "ascension": [
+      "30",
+      "40",
+      "45"
+    ]
+  },
+  {
+    "uuid": "37",
+    "name": "Primordial Jade Winged Spear",
+    "image": "https://yarvis.net/item/Weapon_Primordial_Jade_Winged-Spear.png",
+    "type": "Polearm",
+    "ascension": [
+      "32",
+      "43",
+      "44"
+    ]
+  },
+  {
+    "uuid": "38",
+    "name": "Skyward Spine",
+    "image": "https://yarvis.net/item/Weapon_Skyward_Spine.png",
+    "type": "Polearm",
+    "ascension": [
+      "31",
+      "41",
+      "38"
+    ]
+  },
+  {
+    "uuid": "39",
+    "name": "Crescent Pike",
+    "image": "https://yarvis.net/item/Weapon_Crescent_Pike.png",
+    "type": "Polearm",
+    "ascension": [
+      "32",
+      "43",
+      "45"
+    ]
+  },
+  {
+    "uuid": "40",
+    "name": "Dragon's_Bane",
+    "image": "https://yarvis.net/item/Weapon_Dragons_Bane.png",
+    "type": "Polearm",
+    "ascension": [
+      "33",
+      "42",
+      "38"
+    ]
+  },
+  {
+    "uuid": "41",
+    "name": "Prototype Starglitter",
+    "image": "https://yarvis.net/item/Weapon_Prototype_Starglitter.png",
+    "type": "Polearm",
+    "ascension": [
+      "34",
+      "46",
+      "36"
+    ]
+  },
+  {
+    "uuid": "42",
+    "name": "Deathmatch",
+    "image": "https://yarvis.net/item/Weapon_Deathmatch.png",
+    "type": "Polearm",
+    "ascension": [
+      "30",
+      "40",
+      "47"
+    ]
+  },
+  {
+    "uuid": "43",
+    "name": "Favonius Lance",
+    "image": "https://yarvis.net/item/Weapon_Favonius_Lance.png",
+    "type": "Polearm",
+    "ascension": [
+      "31",
+      "41",
+      "35"
+    ]
+  },
+  {
+    "uuid": "44",
+    "name": "Black Tassel",
+    "image": "https://yarvis.net/item/Weapon_Black_Tassel.png",
+    "type": "Polearm",
+    "ascension": [
+      "34",
+      "46",
+      "37"
+    ]
+  },
+  {
+    "uuid": "45",
+    "name": "White Tassel",
+    "image": "https://yarvis.net/item/Weapon_White_Tassel.png",
+    "type": "Polearm",
+    "ascension": [
+      "32",
+      "43",
+      "44"
+    ]
+  },
+  {
+    "uuid": "46",
+    "name": "Halberd",
+    "image": "https://yarvis.net/item/Weapon_Halberd.png",
+    "type": "Polearm",
+    "ascension": [
+      "33",
+      "42",
+      "47"
+    ]
+  },
+  {
+    "uuid": "47",
+    "name": "Iron Point",
+    "image": "https://yarvis.net/item/Weapon_Iron_Point.png",
+    "type": "Polearm",
+    "ascension": [
+      "31",
+      "41",
+      "38"
+    ]
+  },
+  {
+    "uuid": "48",
+    "name": "Beginner's_Protector",
+    "image": "https://yarvis.net/item/Weapon_Beginners_Protector.png",
+    "type": "Polearm",
+    "ascension": [
+      "31",
+      "41",
+      "38"
+    ]
+  },
+  {
+    "uuid": "49",
+    "name": "Skyward Pride",
+    "image": "https://yarvis.net/item/Weapon_Skyward_Pride.png",
+    "type": "Claymore",
+    "ascension": [
+      "30", "40", "35"
+    ]
+  },
+  {
+    "uuid": "50",
+    "name": "Wolf's_Gravestone",
+    "image": "https://yarvis.net/item/Weapon_Wolfs_Gravestone.png",
+    "type": "Claymore",
+    "ascension": [
+      "31", "41", "38"
+    ]
+  },
+  {
+    "uuid": "51",
+    "name": "Sacrificial Greatsword",
+    "image": "https://yarvis.net/item/Weapon_Sacrificial_Greatsword.png",
+    "type": "Claymore",
+    "ascension": [
+      "30", "40", "37"
+    ]
+  },
+  {
+    "uuid": "52",
+    "name": "The Bell",
+    "image": "https://yarvis.net/item/Weapon_The_Bell.png",
+    "type": "Claymore",
+    "ascension": [
+      "29", "39", "47"
+    ]
+  },
+  {
+    "uuid": "53",
+    "name": "Blackcliff Slasher",
+    "image": "https://yarvis.net/item/Weapon_Blackcliff_Slasher.png",
+    "type": "Claymore",
+    "ascension": [
+      "33", "42", "44"
+    ]
+  },
+  {
+    "uuid": "54",
+    "name": "Serpent Spine",
+    "image": "https://yarvis.net/item/Weapon_Serpent_Spine.png",
+    "type": "Claymore",
+    "ascension": [
+      "34", "46", "47"
+    ]
+  },{
+    "uuid": "55",
+    "name": "Whiteblind",
+    "image": "https://yarvis.net/item/Weapon_Whiteblind.png",
+    "type": "Claymore",
+    "ascension": [
+      "32", "43", "45"  
+    ]
+  },{
+    "uuid": "56",
+    "name": "Royal Greatsword",
+    "image": "https://yarvis.net/item/Weapon_Royal_Greatsword.png",
+    "type": "Claymore",
+    "ascension": [
+      "31", "41", "35" 
+    ]
+  },{
+    "uuid": "57",
+    "name": "Rainslasher",
+    "image": "https://yarvis.net/item/Weapon_Rainslasher.png",
+    "type": "Claymore",
+    "ascension": [ 
+      "33", "42", "38"  
+    ]
+  },{
+    "uuid": "58",
+    "name": "Prototype Archaic",
+    "image": "https://yarvis.net/item/Weapon_Prototype_Archaic.png",
+    "type": "Claymore",
+    "ascension": [ 
+      "34", "46", "36"
+    ]
+  },{
+    "uuid": "59",
+    "name": "Favonius Greatsword",
+    "image": "https://yarvis.net/item/Weapon_Favonius_Greatsword.png",
+    "type": "Claymore",
+    "ascension": [
+      "31", "41", "44"  
+    ]
+  },{
+    "uuid": "60",
+    "name": "Skyrider Greatsword",
+    "image": "https://yarvis.net/item/Weapon_Skyrider_Greatsword.png",
+    "type": "Claymore",
+    "ascension": [
+      "34", "46", "45" 
+    ]
+  },{
+    "uuid": "61",
+    "name": "White Iron Greatsword",
+    "image": "https://yarvis.net/item/Weapon_White_Iron_Greatsword.png",
+    "type": "Claymore",
+    "ascension": [
+      "31", "41", "35" 
+    ]
+  },{
+    "uuid": "62",
+    "name": "Ferrous Shadow",
+    "image": "https://yarvis.net/item/Weapon_Ferrous_Shadow.png",
+    "type": "Claymore",
+    "ascension": [
+      "29", "39", "47"  
+    ]
+  },{
+    "uuid": "63",
+    "name": "Debate Club",
+    "image": "https://yarvis.net/item/Weapon_Debate_Club.png",
+    "type": "Claymore",
+    "ascension": [
+      "33", "42", "36" 
+    ]
+  },{
+    "uuid": "64",
+    "name": "Bloodtainted Greatsword",
+    "image": "https://yarvis.net/item/Weapon_Bloodtainted_Greatsword.png",
+    "type": "Claymore",
+    "ascension": [
+      "30", "40", "37"
+    ]
+  },{
+    "uuid": "65",
+    "name": "Old Merc's Pal",
+    "image": "https://yarvis.net/item/Weapon_Old_Mercs_Pal.png",
+    "type": "Claymore",
+    "ascension": [
+      "30", "40", "35"  
+    ]
+  },{
+    "uuid": "66",
+    "name": "Waster Greatsword",
+    "image": "https://yarvis.net/item/Weapon_Waster_Greatsword.png",
+    "type": "Claymore",
+    "ascension": [
+      "30", "40", "35" 
+    ]
+  },{
+    "uuid": "67",
+    "name": "Lost Prayer to the Sacred Winds",
+    "image": "https://yarvis.net/item/Weapon_Lost_Prayer_to_the_Sacred_Winds.png",
+    "type": "Catalyst",
+    "ascension": [
+      "31", "41", "35"
+    ]
+  },{
+    "uuid": "68",
+    "name": "Skyward Atlas",
+    "image": "https://yarvis.net/item/Weapon_Skyward_Atlas.png",
+    "type": "Catalyst",
+    "ascension": [
+      "30", "40", "37" 
+    ]
+  },{
+    "uuid": "69",
+    "name": "Memory of Dust",
+    "image": "https://yarvis.net/item/Weapon_Memory_of_Dust.png",
+    "type": "Catalyst",
+    "ascension": [
+     "34", "46", "36"
+    ]
+  },{
+    "uuid": "70",
+    "name": "Favonius Codex",
+    "image": "https://yarvis.net/item/Weapon_Favonius_Codex.png",
+    "type": "Catalyst",
+    "ascension": [
+      "29", "39", "38"  
+    ]
+  },{
+    "uuid": "71",
+    "name": "Eye of Perception",
+    "image": "https://yarvis.net/item/Weapon_Eye_of_Perception.png",
+    "type": "Catalyst",
+    "ascension": [
+      "33", "42", "36" 
+    ]
+  },{
+    "uuid": "72",
+    "name": "Prototype Amber",
+    "image": "https://yarvis.net/item/Weapon_Prototype_Amber.png",
+    "type": "Catalyst",
+    "ascension": [
+      "33", "42", "37" 
+    ]
+  },{
+    "uuid": "73",
+    "name": "Royal Grimoire",
+    "image": "https://yarvis.net/item/Weapon_Royal_Grimoire.png",
+    "type": "Catalyst",
+    "ascension": [
+      "29", "39", "44"
+    ]
+  },{
+    "uuid": "74",
+    "name": "Sacrificial Fragments",
+    "image": "https://yarvis.net/item/Weapon_Sacrificial_Fragments.png",
+    "type": "Catalyst",
+    "ascension": [
+      "31", "41", "45" 
+    ]
+  },{
+    "uuid": "75",
+    "name": "Solar Pearl",
+    "image": "https://yarvis.net/item/Weapon_Solar_Pearl.png",
+    "type": "Catalyst",
+    "ascension": [ 
+      "32", "43", "47"
+    ]
+  },{
+    "uuid": "76",
+    "name": "The Widsith",
+    "image": "https://yarvis.net/item/Weapon_The_Widsith.png",
+    "type": "Catalyst",
+    "ascension": [ 
+      "30", "40", "36"
+    ]
+  },{
+    "uuid": "77",
+    "name": "Mappa Mare",
+    "image": "https://yarvis.net/item/Weapon_Mappa_Mare.png",
+    "type": "Catalyst",
+    "ascension": [ 
+      "34", "46", "35" 
+    ]
+  },{
+    "uuid": "78",
+    "name": "Wine and Song",
+    "image": "https://yarvis.net/item/Weapon_Wine_and_Song.png",
+    "type": "Catalyst",
+    "ascension": [
+      "30", "40", "38"  
+    ]
+  },{
+    "uuid": "79",
+    "name": "Otherworldly Story",
+    "image": "https://yarvis.net/item/Weapon_Otherworldly_Story.png",
+    "type": "Catalyst",
+    "ascension": [
+      "31", "41", "36" 
+    ]
+  },{
+    "uuid": "80",
+    "name": "Twin Nephrite",
+    "image": "https://yarvis.net/item/Weapon_Twin_Nephrite.png",
+    "type": "Catalyst",
+    "ascension": [
+      "33", "42", "44" 
+    ]
+  },{
+    "uuid": "81",
+    "name": "Magic Guide",
+    "image": "https://yarvis.net/item/Weapon_Magic_Guide.png",
+    "type": "Catalyst",
+    "ascension": [
+      "29", "39", "35" 
+    ]
+  },{
+    "uuid": "82",
+    "name": "Thrilling Tales of Dragon Slayers",
+    "image": "https://yarvis.net/item/Weapon_Thrilling_Tales_of_Dragon_Slayers.png",
+    "type": "Catalyst",
+    "ascension": [
+      "30", "40", "38"  
+    ]
+  },{
+    "uuid": "83",
+    "name": "Emerald Orb",
+    "image": "https://yarvis.net/item/Weapon_Emerald_Orb.png",
+    "type": "Catalyst",
+    "ascension": [
+      "32", "43", "45"  
+    ]
+  },{
+    "uuid": "84",
+    "name": "Pocket Grimoire",
+    "image": "https://yarvis.net/item/Weapon_Pocket_Grimoire.png",
+    "type": "Catalyst",
+    "ascension": [
+      "29", "39", "36"  
+    ]
+  },{
+    "uuid": "85",
+    "name": "Apprentice's_Notes",
+    "image": "https://yarvis.net/item/Weapon_Apprentices_Notes.png",
+    "type": "Catalyst",
+    "ascension": [
+      "29", "39", "36" 
+    ]
+  },{
+    "uuid": "86",
+    "name": "Vortex Vanquisher",
+    "image": "https://yarvis.net/item/Weapon_Vortex_Vanquisher.png",
+    "type": "Polearm",
+    "ascension": [
+      "34", "46", "45" 
+    ]
+  },{
+    "uuid": "87",
+    "name": "Royal Spear",
+    "image": "https://yarvis.net/item/royal_spear.png",
+    "type": "Polearm",
+    "ascension": [
+      "33", "42", "44" 
+    ]
+  },{
+    "uuid": "88",
+    "name": "The Unforged",
+    "image": "https://yarvis.net/item/Weapon_The_Unforged.png",
+    "type": "Claymore",
+    "ascension": [
+      "33", "42", "45" 
+    ]
+  },{
+    "uuid": "89",
+    "name": "Royal Bow",
+    "image": "https://yarvis.net/item/Weapon_Royal_Bow.png",
+    "type": "Bow",
+    "ascension": [
+      "31", "41", "35" 
+    ]
+  },{
+    "uuid": "90",
+    "name": "Blackcliff Agate",
+    "image": "https://yarvis.net/item/Weapon_Blackcliff_Agate.png",
+    "type": "Catalyst",
+    "ascension": [
+      "32", "43", "38" 
+    ]
+  },{
+    "uuid": "91",
+    "name": "Blackcliff Longsword",
+    "image": "https://yarvis.net/item/Weapon_Blackcliff_Longsword.png",
+    "type": "Sword",
+    "ascension": [
+      "32", "43", "37" 
+    ]
+  },{
+    "uuid": "92",
+    "name": "Royal Longsword",
+    "image": "https://yarvis.net/item/Weapon_Royal_Longsword.png",
+    "type": "Sword",
+    "ascension": [
+      "29", "39", "37" 
+    ]
+  },{
+    "uuid": "93",
+    "name": "Summit Shaper",
+    "image": "https://yarvis.net/img/summit-shaper.png",
+    "type": "Sword",
+    "ascension": [
+      "32", "43", "36" 
+    ]
+  },{
+    "uuid": "94",
+    "name": "Dragonspine Spear",
+    "image": "https://yarvis.net/img/dragonspine-spear.png",
+    "type": "Polearm",
+    "ascension": [
+      "30", "42", "44" 
+    ]
+  },{
+    "uuid": "95",
+    "name": "Festering Desire",
+    "image": "https://yarvis.net/img/festering-fang.png",
+    "type": "Sword",
+    "ascension": [
+      "31", "39", "44" 
+    ]
+  },{
+    "uuid": "96",
+    "name": "Snow-Tombed Starsilver",
+    "image": "https://yarvis.net/img/snow-tombed-starsilver.png",
+    "type": "Claymore",
+    "ascension": [
+      "29", "39", "35" 
+    ]
+  },{
+    "uuid": "97",
+    "name": "Frostbearer",
+    "image": "https://yarvis.net/img/frostbearer.png",
+    "type": "Catalyst",
+    "ascension": [
+      "31", "41", "47" 
+    ]
+  }
+  
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "uuid": "1000",
+        "name": "Traveler Anemo",
+        "artifact" : "Sword",
+        "image": "https://yarvis.net/item/Character_Traveler_Thumb.png",
+        "ascension": [
+          "1", "50", "36"
+        ],
+        "talent": [
+            "14", "15", "16", "38", "25"
+        ],
+        "talent1": [
+            "14", "15", "16", "38", "25"
+        ],
+         
+        "talent2": [
+            "14", "15", "16", "38", "25"
+        ],
+        "talent3": [
+            "14", "15", "16", "38", "25"
+        ]
+      },{
+        "uuid": "1001",
+        "name": "Traveler Geo",
+        "artifact" : "Sword",
+        "image": "https://yarvis.net/item/Character_Traveler_Thumb.png",
+        "ascension": [
+          "1", "50", "36"
+        ],
+        "talent": [
+            "14", "15", "16", "38", "25", "17", "18", "19", "37", "20"
+        ],
+        "talent1": [
+            "14", "15", "16", "38", "25"
+        ],
+         
+        "talent2": [
+            "17", "18", "19", "37", "20"
+        ],
+        "talent3": [
+            "17", "18", "19", "37", "20"
+        ]
+      }
+]
+
+ 

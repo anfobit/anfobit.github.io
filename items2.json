@@ -1,0 +1,1118 @@
+[
+  {
+    "uuid": "1",
+    "category": "ca",
+    "name": "Brilliant Diamond",
+    "image": "https://yarvis.net/item/Item_Brilliant_Diamond_Sliver.png",
+    "source": [
+      "- Adventure Rank reward"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "2",
+    "category": "ca",
+    "name": "Vayuda Turquoise",
+    "image": "https://yarvis.net/item/Item_Vayuda_Turquoise_Sliver.png",
+    "source": [
+      "- Dropped by Anemo Hypostasis"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "3",
+    "category": "ca",
+    "name": "Shivada Jade",
+    "image": "https://yarvis.net/item/Item_Shivada_Jade_Fragment.png",
+    "source": [
+      "- Dropped by Cryo Regisvine",
+      "- Wolf of the North Challenge Reward"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "4",
+    "category": "ca",
+    "name": "Vajrada Amethyst",
+    "image": "https://yarvis.net/item/Item_Vajrada_Amethyst_Fragment.png",
+    "source": [
+      "- Dropped by Electro Hypostasis"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "5",
+    "category": "ca",
+    "name": "Prithiva Topaz",
+    "image": "https://yarvis.net/item/Item_Prithiva_Topaz_Fragment.png",
+    "source": [
+      "- Dropped by Geo Hypostasis",
+      "- Wolf of the North Challenge Reward"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "6",
+    "category": "ca",
+    "name": "Varunada Lazurite",
+    "image": "https://yarvis.net/item/Item_Varunada_Lazurite_Fragment.png",
+    "source": [
+      "- Dropped by Oceanid"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "7",
+    "category": "ca",
+    "name": "Agnidus Agate",
+    "image": "https://yarvis.net/item/Item_Agnidus_Agate_Fragment.png",
+    "source": [
+      "- Dropped by Pyro Regisvine",
+      "- Wolf of the North Challenge Reward"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "8",
+    "category": "ca",
+    "name": "Hurricane Seed",
+    "image": "https://yarvis.net/item/Item_Hurricane_Seed.png",
+    "source": [
+      "- Dropped by Anemo Hypostasis"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "9",
+    "category": "ca",
+    "name": "Hoarfrost Core",
+    "image": "https://yarvis.net/item/Item_Hoarfrost_Core.png",
+    "source": [
+      "- Dropped by Cryo Regisvines"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "10",
+    "category": "ca",
+    "name": "Lightning Prism",
+    "image": "https://yarvis.net/item/Item_Lightning_Prism.png",
+    "source": [
+      "- Dropped by Electro Hypostasis"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "11",
+    "category": "ca",
+    "name": "Basalt Pillar",
+    "image": "https://yarvis.net/item/Item_Basalt_Pillar.png",
+    "source": [
+      "Dropped by Geo Hypostasis"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "12",
+    "category": "ca",
+    "name": "Cleansing Heart",
+    "image": "https://yarvis.net/item/Item_Cleansing_Heart.png",
+    "source": [
+      "- Dropped by Oceanids"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "13",
+    "category": "ca",
+    "name": "Everflame Seed",
+    "image": "https://yarvis.net/item/Item_Everflame_Seed.png",
+    "source": [
+      "- Dropped by Pyro Regisvines"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "14",
+    "category": "t",
+    "name": "\"Freedom\"",
+    "image": "https://yarvis.net/item/Item_Guide_to_Freedom.png",
+    "source": [
+      "- Forsaken Rift"
+    ],
+    "days": [
+      1,
+      4,
+      7
+    ]
+  },
+  {
+    "uuid": "15",
+    "category": "t",
+    "name": "\"Resistance\"",
+    "image": "https://yarvis.net/item/Item_Guide_to_Resistance.png",
+    "source": [
+      "- Forsaken Rift"
+    ],
+    "days": [
+      2,
+      5,
+      7
+    ]
+  },
+  {
+    "uuid": "16",
+    "category": "t",
+    "name": "\"Ballad\"",
+    "image": "https://yarvis.net/item/Item_Guide_to_Ballad.png",
+    "source": [
+      "- Forsaken Rift"
+    ],
+    "days": [
+      3,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "17",
+    "category": "t",
+    "name": "\"Prosperity\"",
+    "image": "https://yarvis.net/item/Item_Guide_to_Prosperity.png",
+    "source": [
+      "- Taishan Mansion"
+    ],
+    "days": [
+      1,
+      4,
+      7
+    ]
+  },
+  {
+    "uuid": "18",
+    "category": "t",
+    "name": "\"Diligence\"",
+    "image": "https://yarvis.net/item/Item_Guide_to_Diligence.png",
+    "source": [
+      "- Taishan Mansion"
+    ],
+    "days": [
+      2,
+      5,
+      7
+    ]
+  },
+  {
+    "uuid": "19",
+    "category": "t",
+    "name": "\"Gold\"",
+    "image": "https://yarvis.net/item/Item_Guide_to_Gold.png",
+    "source": [
+      "- Taishan Mansion"
+    ],
+    "days": [
+      3,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "20",
+    "category": "t",
+    "name": "Tail of Boreas",
+    "image": "https://yarvis.net/item/Item_Tail_of_Boreas.png",
+    "source": [
+      "- Wolf of the North Challenge Reward"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "21",
+    "category": "t",
+    "name": "Ring of Boreas",
+    "image": "https://yarvis.net/item/Item_Ring_of_Boreas.png",
+    "source": [
+      "- Wolf of the North Challenge Reward"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "22",
+    "category": "t",
+    "name": "Spirit Locket of Boreas",
+    "image": "https://yarvis.net/item/Item_Spirit_Locket_of_Boreas.png",
+    "source": [
+      "- Wolf of the North Challenge Reward"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "23",
+    "category": "t",
+    "name": "Dvalin's Plume",
+    "image": "https://yarvis.net/item/Item_Dvalins_Plume.png",
+    "source": [
+      "- Confront Stormterror"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "24",
+    "category": "t",
+    "name": "Dvalin's Claw",
+    "image": "https://yarvis.net/item/Item_Dvalins_Claw.png",
+    "source": [
+      "- Confront Stormterror"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "25",
+    "category": "t",
+    "name": "Dvalin's Sigh",
+    "image": "https://yarvis.net/item/Item_Dvalins_Sigh.png",
+    "source": [
+      "- Confront Stormterror"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "26",
+    "category": "t",
+    "name": "Tusk of Monoceros Caeli",
+    "image": "https://yarvis.net/item/Item_Tusk_of_Monoceros_Caeli.png",
+    "source": [
+      "- Enter the Golden House"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "27",
+    "category": "t",
+    "name": "Shard of a Foul Legacy",
+    "image": "https://yarvis.net/item/Item_Shard_of_a_Foul_Legacy.png",
+    "source": [
+      "- Childe Challenge Reward"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "28",
+    "category": "t",
+    "name": "Shadow of the Warrior",
+    "image": "https://yarvis.net/item/Item_Shadow_of_the_Warrior.png",
+    "source": [
+      "- Childe Challenge Reward"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "29",
+    "category": "wa",
+    "name": "Decarabian's",
+    "image": "https://yarvis.net/item/Item_Debris_of_Decarabians_City.png",
+    "source": [
+      "- Cecilia Garden"
+    ],
+    "days": [
+      1,
+      4,
+      7
+    ]
+  },
+  {
+    "uuid": "30",
+    "category": "wa",
+    "name": "Boreal Wolf's",
+    "image": "https://yarvis.net/item/Item_Boreal_Wolfs_Cracked_Tooth.png",
+    "source": [
+      "- Cecilia Garden"
+    ],
+    "days": [
+      2,
+      5,
+      7
+    ]
+  },
+  {
+    "uuid": "31",
+    "category": "wa",
+    "name": "Dandelion Gladiator",
+    "image": "https://yarvis.net/item/Item_Chains_of_the_Dandelion_Gladiator.png",
+    "source": [
+      "- Cecilia Garden"
+    ],
+    "days": [
+      3,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "32",
+    "category": "wa",
+    "name": "Guyun",
+    "image": "https://yarvis.net/item/Item_Lustrous_Stone_from_Guyun.png",
+    "source": [
+      "- Hidden Palace of Lianshan Formula"
+    ],
+    "days": [
+      1,
+      4,
+      7
+    ]
+  },
+  {
+    "uuid": "33",
+    "category": "wa",
+    "name": "Mist Veiled",
+    "image": "https://yarvis.net/item/Item_Mist_Veiled_Mercury_Elixir.png",
+    "source": [
+      "- Hidden Palace of Lianshan Formula"
+    ],
+    "days": [
+      2,
+      5,
+      7
+    ]
+  },
+  {
+    "uuid": "34",
+    "category": "wa",
+    "name": "Aerosiderite",
+    "image": "https://yarvis.net/item/Item_Piece_of_Aerosiderite.png",
+    "source": [
+      "- Hidden Palace of Lianshan Formula"
+    ],
+    "days": [
+      3,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "35",
+    "category": "ma",
+    "name": "Slime Condensate",
+    "image": "https://yarvis.net/item/Item_Slime_Condensate.png",
+    "source": [
+      "- Dropped by slimes"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "36",
+    "category": "ma",
+    "name": "Damaged Mask",
+    "image": "https://yarvis.net/item/Item_Damaged_Mask.png",
+    "source": [
+      "- Dropped by hilichurls"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "37",
+    "category": "ma",
+    "name": "Firm Arrowhead",
+    "image": "https://yarvis.net/item/Item_Firm_Arrowhead.png",
+    "source": [
+      "- Dropped by Ranged Hilichurls"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "38",
+    "category": "ma",
+    "name": "Divining Scroll",
+    "image": "https://yarvis.net/item/Item_Divining_Scroll.png",
+    "source": [
+      "- Dropped by samachurls"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "39",
+    "category": "ma",
+    "name": "Heavy Horn",
+    "image": "https://yarvis.net/item/Item_Heavy_Horn.png",
+    "source": [
+      "- Dropped by Mitachurls"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "40",
+    "category": "ma",
+    "name": "Dead Ley Line Branch",
+    "image": "https://yarvis.net/item/Item_Dead_Ley_Line_Branch.png",
+    "source": [
+      "- Dropped by Abyss Mages"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "41",
+    "category": "ma",
+    "name": "Chaos Device",
+    "image": "https://yarvis.net/item/Item_Chaos_Device.png",
+    "source": [
+      "- Dropped by Ruin Guards",
+      "- Dropped by Ruin Hunters"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "42",
+    "category": "ma",
+    "name": "Mist Grass Pollen",
+    "image": "https://yarvis.net/item/Item_Mist_Grass_Pollen.png",
+    "source": [
+      "- Dropped by Electro Cicin Mages"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "43",
+    "category": "ma",
+    "name": "Hunter's Sacrificial Knife",
+    "image": "https://yarvis.net/item/Item_Hunters_Sacrificial_Knife.png",
+    "source": [
+      "- Dropped by Agents"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "44",
+    "category": "ma",
+    "name": "Recruit's Insignia",
+    "image": "https://yarvis.net/item/Item_Recruits_Insignia.png",
+    "source": [
+      "- Dropped by Skirmishers"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "45",
+    "category": "ma",
+    "name": "Treasure Hoarder Insignia",
+    "image": "https://yarvis.net/item/Item_Treasure_Hoarder_Insignia.png",
+    "source": [
+      "- Dropped by Treasure Hoarders"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "46",
+    "category": "ma",
+    "name": "Fragile Bone Shard",
+    "image": "https://yarvis.net/item/Item_Fragile_Bone_Shard.png",
+    "source": [
+      "- Dropped by Geovishap Hatchlings"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "47",
+    "category": "ma",
+    "name": "Whopperflower Nectar",
+    "image": "https://yarvis.net/item/Item_Whopperflower_Nectar.png",
+    "source": [
+      "- Dropped by Whopperflower"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "48",
+    "category": "pa",
+    "name": "Small Lamp Grass",
+    "image": "https://yarvis.net/item/Item_Small_Lamp_Grass.png",
+    "source": [
+      "- Found in the wild at night",
+      "- Found in Wolvendom",
+      "- Found in the Whispering Woods",
+      "- Sold by Flora"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "49",
+    "category": "pa",
+    "name": "Valberry",
+    "image": "https://yarvis.net/item/Item_Valberry.png",
+    "source": [
+      "- Found in the wild around Stormbearer Mountains",
+      "- Sold by Chloris"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "50",
+    "category": "pa",
+    "name": "Windwheel Aster",
+    "image": "https://yarvis.net/item/Item_Windwheel_Aster.png",
+    "source": [
+      "- Found near the Statue of The Seven at Windrise",
+      "- Found under trees in the wild",
+      "- Found in Stormterror's Lair",
+      "- Sold by Flora"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "51",
+    "category": "pa",
+    "name": "Wolfhook",
+    "image": "https://yarvis.net/item/Item_Wolfhook.png",
+    "source": [
+      "- Found in the wild",
+      "- Found in Wolvendom",
+      "- Sold by Chloris"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "52",
+    "category": "pa",
+    "name": "Dandelion_Seed",
+    "image": "https://yarvis.net/item/Item_Dandelion_Seed.png",
+    "source": [
+      "- Found in the wild",
+      "- Found at Mondstadt gates"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "53",
+    "category": "pa",
+    "name": "Cecilia",
+    "image": "https://yarvis.net/item/Item_Cecilia.png",
+    "source": [
+      "- Found in the wild",
+      "- Found on Starsnatch Cliff",
+      "- Sold by Flora",
+      "- Given by an NPC at the top of Starsnatch Cliff"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "54",
+    "category": "pa",
+    "name": "Mushroom",
+    "image": "https://yarvis.net/item/Item_Philanemo_Mushroom.png",
+    "source": [
+      "- Found under the eaves of houses",
+      "- Sold by Chloris"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "55",
+    "category": "pa",
+    "name": "Calla Lily",
+    "image": "https://yarvis.net/item/Item_Calla_Lily.png",
+    "source": [
+      "- Found near lakes",
+      "- Found in Springvale",
+      "- Sold by Flora"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "56",
+    "category": "pa",
+    "name": "Cor Lapis",
+    "image": "https://yarvis.net/item/Item_Cor_Lapis.png",
+    "source": [
+      "- Found under cliffs in Liyue",
+      "- Found in Mt. Hulao"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "57",
+    "category": "pa",
+    "name": "Jueyun Chili",
+    "image": "https://yarvis.net/item/Item_Jueyun_Chili.png",
+    "source": [
+      "- Found in the wild",
+      "- Found in Qingce Village"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "58",
+    "category": "pa",
+    "name": "Qingxin",
+    "image": "https://yarvis.net/item/Item_Qingxin.png",
+    "source": [
+      "- Found in the heights of stone forests",
+      "- Sold by Bubu Pharmacy",
+      "- Found in Guyun Stone Forest"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "59",
+    "category": "pa",
+    "name": "Violetgrass",
+    "image": "https://yarvis.net/item/Item_Violetgrass.png",
+    "source": [
+      "- Found near cliffs in Liyue"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "60",
+    "category": "pa",
+    "name": "Noctilucous Jade",
+    "image": "https://yarvis.net/item/Item_Noctilucous_Jade.png",
+    "source": [
+      "- Found in caves in Liyue",
+      "- Found in Mingyun Village",
+      "- Sold by Shitou"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "61",
+    "category": "",
+    "name": "Silk Flower",
+    "image": "https://yarvis.net/item/Item_Silk_Flower.png",
+    "source": [
+      "- Found near Yujing Terrace, Liyue Harbor",
+      "- Sold by Ms. Bai",
+      "- Found near Wangshu Inn"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "62",
+    "category": "pa",
+    "name": "Glaze Lily",
+    "image": "https://yarvis.net/item/Item_Glaze_Lily.png",
+    "source": [
+      "- Found in the wild",
+      "- Purchased from Ms. Bai",
+      "- Found in Qingce Village"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "63",
+    "category": "pa",
+    "name": "Starconch",
+    "image": "https://yarvis.net/item/Item_Starconch.png",
+    "source": [
+      "- Found on the beaches of Liyue"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+]
