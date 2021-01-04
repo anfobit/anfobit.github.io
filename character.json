@@ -3,7 +3,7 @@
     "uuid": "1",
     "name": "Amber",
     "artifact" : "Bow",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c6/Character_Amber_Thumb.png",
+    "image": "https://yarvis.net/item/Character_Amber_Thumb.png",
     "ascension": [
       "7", "13", "48", "37"
     ],
@@ -14,7 +14,7 @@
     "uuid": "2",
     "name": "Barbara",
     "artifact" : "Catalyst",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Character_Barbara_Thumb.png",
+    "image": "https://yarvis.net/item/Character_Barbara_Thumb.png",
     "ascension": [
       "6", "12", "54", "38"
     ],
@@ -25,7 +25,7 @@
     "uuid": "3",
     "name": "Beidou",
     "artifact" : "Claymore",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/61/Character_Beidou_Thumb.png",
+    "image": "https://yarvis.net/item/Character_Beidou_Thumb.png",
     "ascension": [
       "4", "10", "60", "45"
     ],
@@ -36,7 +36,7 @@
     "uuid": "4",
     "name": "Bennett",
     "artifact" : "Sword",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Character_Bennett_Thumb.png",
+    "image": "https://yarvis.net/item/Character_Bennett_Thumb.png",
     "ascension": [
       "7", "13", "50", "45"
     ],
@@ -47,7 +47,7 @@
     "uuid": "5",
     "name": "Chongyun",
     "artifact" : "Claymore",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/68/Character_Chongyun_Thumb.png",
+    "image": "https://yarvis.net/item/Character_Chongyun_Thumb.png",
     "ascension": [
       "3", "9", "56", "36"
     ],
@@ -58,7 +58,7 @@
     "uuid": "6",
     "name": "Diluc",
     "artifact" : "Claymore",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Character_Diluc_Thumb.png",
+    "image": "https://yarvis.net/item/Character_Diluc_Thumb.png",
     "ascension": [
       "7", "13", "48", "44"
     ],
@@ -69,7 +69,7 @@
     "uuid": "7",
     "name": "Diona",
     "artifact" : "Bow",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Character_Diona_Thumb.png",
+    "image": "https://yarvis.net/item/Character_Diona_Thumb.png",
     "ascension": [
       "3", "9", "55", "37"
     ],
@@ -80,7 +80,7 @@
     "uuid": "8",
     "name": "Fischl",
     "artifact" : "Bow",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Character_Fischl_Thumb.png",
+    "image": "https://yarvis.net/item/Character_Fischl_Thumb.png",
     "ascension": [
       "4", "10", "48", "37"
     ],
@@ -91,7 +91,7 @@
     "uuid": "9",
     "name": "Jean",
     "artifact" : "Sword",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/89/Character_Jean_Thumb.png",
+    "image": "https://yarvis.net/item/Character_Jean_Thumb.png",
     "ascension": [
       "2", "8", "52", "36"
     ],
@@ -102,7 +102,7 @@
     "uuid": "10",
     "name": "Kaeya",
     "artifact" : "Sword",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Character_Kaeya_Thumb.png",
+    "image": "https://yarvis.net/item/Character_Kaeya_Thumb.png",
     "ascension": [
       "3", "9", "55", "45"
     ],
@@ -113,7 +113,7 @@
     "uuid": "11",
     "name": "Keqing",
     "artifact" : "Sword",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/06/Character_Keqing_Thumb.png",
+    "image": "https://yarvis.net/item/Character_Keqing_Thumb.png",
     "ascension": [
       "4", "10", "56", "47"
     ],
@@ -124,7 +124,7 @@
     "uuid": "12",
     "name": "Klee",
     "artifact" : "Catalyst",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Character_Klee_Thumb.png",
+    "image": "https://yarvis.net/item/Character_Klee_Thumb.png",
     "ascension": [
       "7", "13", "54", "38"
     ],
@@ -135,7 +135,7 @@
     "uuid": "13",
     "name": "Lisa",
     "artifact" : "Catalyst",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Character_Lisa_Thumb.png",
+    "image": "https://yarvis.net/item/Character_Lisa_Thumb.png",
     "ascension": [
       "4", "10", "49", "35"
     ],
@@ -146,7 +146,7 @@
     "uuid": "14",
     "name": "Mona",
     "artifact" : "Catalyst",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Character_Mona_Thumb.png",
+    "image": "https://yarvis.net/item/Character_Mona_Thumb.png",
     "ascension": [
       "6", "12","54", "47"
     ],
@@ -157,7 +157,7 @@
     "uuid": "15",
     "name": "Ningguang",
     "artifact" : "Catalyst",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Ningguang_Thumb.png",
+    "image": "https://yarvis.net/item/Character_Ningguang_Thumb.png",
     "ascension": [
       "5", "11", "62", "44"
     ],
@@ -168,7 +168,7 @@
     "uuid": "16",
     "name": "Noelle",
     "artifact" : "Claymore",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ab/Character_Noelle_Thumb.png",
+    "image": "https://yarvis.net/item/Character_Noelle_Thumb.png",
     "ascension": [
       "5", "11", "49", "36"
     ],
@@ -179,7 +179,7 @@
     "uuid": "17",
     "name": "Qiqi",
     "artifact" : "Sword",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Character_Qiqi_Thumb.png",
+    "image": "https://yarvis.net/item/Character_Qiqi_Thumb.png",
     "ascension": [
       "3", "9", "59", "38"
     ],
@@ -190,7 +190,7 @@
     "uuid": "18",
     "name": "Razor",
     "artifact" : "Claymore",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1d/Character_Razor_Thumb.png",
+    "image": "https://yarvis.net/item/Character_Razor_Thumb.png",
     "ascension": [
       "4", "10", "51", "36"
     ],
@@ -201,7 +201,7 @@
     "uuid": "19",
     "name": "Sucrose",
     "artifact" : "Catalyst",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/61/Character_Sucrose_Thumb.png",
+    "image": "https://yarvis.net/item/Character_Sucrose_Thumb.png",
     "ascension": [
       "2", "8", "50", "47"
     ],
@@ -213,7 +213,7 @@
     "uuid": "20",
     "name": "Tartaglia",
     "artifact" : "Bow",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/53/Character_Tartaglia_Thumb.png",
+    "image": "https://yarvis.net/item/Character_Tartaglia_Thumb.png",
     "ascension": [
       "6", "12", "63", "44"
     ],
@@ -224,7 +224,7 @@
     "uuid": "21",
     "name": "Traveler",
     "artifact" : "Sword",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Character_Traveler_Thumb.png",
+    "image": "https://yarvis.net/item/Character_Traveler_Thumb.png",
     "ascension": [
       "1", "50", "36"
     ],
@@ -235,7 +235,7 @@
     "uuid": "22",
     "name": "Venti",
     "artifact" : "Bow",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Character_Venti_Thumb.png",
+    "image": "https://yarvis.net/item/Character_Venti_Thumb.png",
     "ascension": [
       "2", "8", "53", "35"
     ],
@@ -246,7 +246,7 @@
     "uuid": "23",
     "name": "Xiangling",
     "artifact" : "Polearm",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Character_Xiangling_Thumb.png",
+    "image": "https://yarvis.net/item/Character_Xiangling_Thumb.png",
     "ascension": [
       "7", "13", "57", "35"
     ],
@@ -258,7 +258,7 @@
     "uuid": "24",
     "name": "Xingqiu",
     "artifact" : "Sword",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4a/Character_Xingqiu_Thumb.png",
+    "image": "https://yarvis.net/item/Character_Xingqiu_Thumb.png",
     "ascension": [
       "6", "12", "61", "36"
     ],
@@ -270,7 +270,7 @@
     "uuid": "25",
     "name": "Zhongli",
     "artifact" : "Polearm",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Character_Zhongli_Thumb.png",
+    "image": "https://yarvis.net/item/Character_Zhongli_Thumb.png",
     "ascension": [
       "5", "56", "35", "11"
     ],
@@ -282,7 +282,7 @@
     "uuid": "26",
     "name": "Xinyan",
     "artifact" : "Claymore",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Character_Xinyan_Thumb.png",
+    "image": "https://yarvis.net/item/Character_Xinyan_Thumb.png",
     "ascension": [
        "7", "59", "13", "45"
     ],
@@ -295,7 +295,7 @@
     "uuid": "27",
     "name": "Albedo",
     "artifact" : "Sword",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Character_Albedo_Thumb.png",
+    "image": "https://yarvis.net/item/Character_Albedo_Thumb.png",
     "ascension": [
        "5", "11", "53", "38"
     ],
@@ -307,7 +307,7 @@
     "uuid": "28",
     "name": "Ganyu",
     "artifact" : "Bow",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0a/Character_Ganyu_Thumb.png",
+    "image": "https://yarvis.net/item/Character_Ganyu_Thumb.png",
     "ascension": [
        "3", "9", "58", "47"
     ],

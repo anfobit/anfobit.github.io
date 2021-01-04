@@ -3,7 +3,7 @@
         "uuid": "1000",
         "name": "Traveler Anemo",
         "artifact" : "Sword",
-        "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Character_Traveler_Thumb.png",
+        "image": "https://yarvis.net/item/Character_Traveler_Thumb.png",
         "ascension": [
           "1", "50", "36"
         ],
@@ -24,7 +24,7 @@
         "uuid": "1001",
         "name": "Traveler Geo",
         "artifact" : "Sword",
-        "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Character_Traveler_Thumb.png",
+        "image": "https://yarvis.net/item/Character_Traveler_Thumb.png",
         "ascension": [
           "1", "50", "36"
         ],
@@ -43,3 +43,5 @@
         ]
       }
 ]
+
+ 
