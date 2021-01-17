@@ -924,6 +924,14 @@
     "ascension": [
       "31", "41", "47" 
     ]
+  },{
+    "uuid": "98",
+    "name": "Blackcliff Pole",
+    "image": "https://yarvis.net/item/Weapon-Blackcliff-Pole.png",
+    "type": "Polearm",
+    "ascension": [
+      "33", "42", "44" 
+    ]
   }
   
 ]
