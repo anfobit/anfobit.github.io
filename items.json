@@ -1114,5 +1114,23 @@
       6,
       7
     ]
+  },
+  {
+    "uuid": "64",
+    "category": "ca",
+    "name": "Juvenile jade",
+    "image": "https://yarvis.net/item/juvenile-jade-35.png",
+    "source": [
+      "- Dropped by Primo Geovishap"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
   }
 ]

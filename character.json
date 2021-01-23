@@ -314,5 +314,17 @@
     "talent": [
        "18", "47", "28"
     ]
+  },
+  {
+    "uuid": "29",
+    "name": "Xiao",
+    "artifact" : "Polearm",
+    "image": "https://yarvis.net/item/Character-Xiao-Thumb.png",
+    "ascension": [
+       "2", "64", "58", "35"
+    ],
+    "talent": [
+       "17", "35", "28"
+    ]
   }
 ]
