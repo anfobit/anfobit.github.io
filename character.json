@@ -319,7 +319,7 @@
     "uuid": "29",
     "name": "Xiao",
     "artifact" : "Polearm",
-    "image": "http://yarvis.net/item/Character-Xiao-Thumb2.png",
+    "image": "https://yarvis.net/item/Character-Xiao-Thumb-Big.png",
     "ascension": [
        "2", "64", "58", "35"
     ],
