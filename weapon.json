@@ -932,6 +932,38 @@
     "ascension": [
       "33", "42", "44" 
     ]
+  },{
+    "uuid": "99",
+    "name": "Primordial Jade Cutter",
+    "image": "https://yarvis.net/item/Weapon-Primordial-Jade-Cutter.png", 
+    "type": "Sword",
+    "ascension": [
+      "33", "42", "45" 
+    ]
+  },{
+    "uuid": "100",
+    "name": "Staff of Homa",
+    "image": "https://yarvis.net/item/staff-of-homa.png",
+    "type": "Polearm",
+    "ascension": [
+      "34", "40", "35" 
+    ]
+  },{
+    "uuid": "101",
+    "name": "Lithic Spear",
+    "image": "https://yarvis.net/item/Weapon-Lithic-Spear.png",
+    "type": "Polearm",
+    "ascension": [
+      "34", "46", "37" 
+    ]
+  },{
+    "uuid": "102",
+    "name": "Lithic Blade",
+    "image": "https://yarvis.net/item/Weapon-Lithic-Blade.png",
+    "type": "Claymore",
+    "ascension": [
+      "32", "43", "37" 
+    ]
   }
   
 ]
