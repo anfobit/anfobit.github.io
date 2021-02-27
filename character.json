@@ -331,7 +331,7 @@
     "uuid": "30",
     "name": "Hutao",
     "artifact" : "Polearm",
-    "image": "https://yarvis.net/item/hutao.png",
+    "image": "http://yarvis.net/item/hutao2.png",
     "ascension": [
        "7", "64", "61", "47"
     ],
