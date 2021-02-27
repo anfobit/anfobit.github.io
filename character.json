@@ -326,5 +326,17 @@
     "talent": [
        "17", "35", "28"
     ]
+  },
+  {
+    "uuid": "30",
+    "name": "Hutao",
+    "artifact" : "Polearm",
+    "image": "https://yarvis.net/item/hutao.png",
+    "ascension": [
+       "7", "64", "61", "47"
+    ],
+    "talent": [
+       "18", "47", "27"
+    ]
   }
 ]
