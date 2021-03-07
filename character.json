@@ -338,5 +338,17 @@
     "talent": [
        "18", "47", "27"
     ]
+  },
+  {
+    "uuid": "31",
+    "name": "Rosaria",
+    "artifact" : "Polearm",
+    "image": "http://yarvis.net/item/Character_Rosaria_Portrait.png",
+    "ascension": [
+       "3", "9", "49", "44"
+    ],
+    "talent": [
+       "16", "44", "28"
+    ]
   }
 ]
