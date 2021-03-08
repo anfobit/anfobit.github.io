@@ -964,6 +964,31 @@
     "ascension": [
       "32", "43", "37" 
     ]
+  },{
+    "uuid": "103",
+    "name": "Windblume Ode",
+    "image": "https://yarvis.net/item/windblume_ode.png",
+    "type": "Bow",
+    "ascension": [
+      "31", "40", "47" 
+    ]
+  },{
+    "uuid": "104",
+    "name": "Elegy for the End",
+    "image": "https://yarvis.net/item/Weapon_Elegy_for_the_End.png",
+    "type": "Bow",
+    "ascension": [
+      "30", "39", "44" 
+    ]
+  },{
+    "uuid": "105",
+    "name": "The Alley Flash",
+    "image": "https://yarvis.net/item/Weapon_The_Alley_Flash.png",
+    "type": "Sword",
+    "ascension": [
+      "29", "39", "38" 
+    ]
   }
+
   
 ]
