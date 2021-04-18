@@ -1132,5 +1132,59 @@
       6,
       7
     ]
+  },
+  {
+    "uuid": "65",
+    "category": "t",
+    "name": "Blood Jade Branch",
+    "image": "https://yarvis.net/item/bloodjade_branch.png",
+    "source": [
+      "- Azhdaha challenge reward"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "66",
+    "category": "t",
+    "name": "Dragon Lord’s Crown",
+    "image": "https://yarvis.net/item/dragon_lords_crown.png",
+    "source": [
+      "- Azhdaha challenge reward"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "67",
+    "category": "ca",
+    "name": "Crystalline Bloom",
+    "image": "https://yarvis.net/item/crystalline_bloom.png",
+    "source": [
+      "- Dropped by Cryo Hypostases"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
   }
 ]
