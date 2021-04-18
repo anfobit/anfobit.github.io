@@ -350,5 +350,29 @@
     "talent": [
        "16", "44", "28"
     ]
+  },
+  {
+    "uuid": "32",
+    "name": "Yanfei",
+    "artifact" : "Catalyst",
+    "image": "https://yarvis.net/item/Character_Yanfei_Thumb.png",
+    "ascension": [
+       "7", "64", "60", "45"
+    ],
+    "talent": [
+       "19", "45", "65"
+    ]
+  },
+  {
+    "uuid": "33",
+    "name": "Eula",
+    "artifact" : "Claymore",
+    "image": "https://yarvis.net/item/Character_Eula_Thumb.png",
+    "ascension": [
+       "3", "67", "52", "36"
+    ],
+    "talent": [
+       "15", "36", "66"
+    ]
   }
 ]
