@@ -988,7 +988,14 @@
     "ascension": [
       "29", "39", "38" 
     ]
+  },{
+    "uuid": "106",
+    "name": "Song of Broken Pines",
+    "image": "http://yarvis.net/item/song_of_broken_pines.png",
+    "type": "Claymore",
+    "ascension": [
+      "29", "39", "36" 
+    ]
   }
-
   
 ]
