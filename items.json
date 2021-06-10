@@ -1186,5 +1186,59 @@
       6,
       7
     ]
+  },
+  {
+    "uuid": "68",
+    "category": "pa",
+    "name": "Sea Ganoderma",
+    "image": "https://yarvis.net/item/sea_ganoderma.png",
+    "source": [
+      "- Found in the wild"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "69",
+    "category": "ca",
+    "name": "Maguu Kishin",
+    "image": "https://yarvis.net/item/magu_kishin.png",
+    "source": [
+      "- Dropped by Maguu kenki"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "70",
+    "category": "t",
+    "name": "Gilded Scale",
+    "image": "https://yarvis.net/item/gilded_scale.png",
+    "source": [
+      "- Azhdaha challenge reward"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
   }
 ]

@@ -374,5 +374,17 @@
     "talent": [
        "15", "36", "66"
     ]
+  },
+  {
+    "uuid": "34",
+    "name": "Kaedehara Kazuha",
+    "artifact" : "Sword",
+    "image": "https://yarvis.net/item/kazuha_face.png",
+    "ascension": [
+       "2", "69", "68", "45"
+    ],
+    "talent": [
+       "18", "45", "70"
+    ]
   }
 ]
