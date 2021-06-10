@@ -996,6 +996,30 @@
     "ascension": [
       "29", "39", "36" 
     ]
+  },{
+    "uuid": "107",
+    "name": "Dodoco Tales",
+    "image": "http://yarvis.net/item/dodoco_tales.png",
+    "type": "Catalyst",
+    "ascension": [
+      "30", "40", "36" 
+    ]
+  },{
+    "uuid": "108",
+    "name": "Mitternachts Waltz",
+    "image": "http://yarvis.net/item/mitternachts_waltz.png",
+    "type": "Bow",
+    "ascension": [
+      "29", "39", "45" 
+    ]
+  },{
+    "uuid": "109",
+    "name": "Freedom Sworn",
+    "image": "http://yarvis.net/item/freedom_sworn.png",
+    "type": "Sword",
+    "ascension": [
+      "31", "41", "38" 
+    ]
   }
   
 ]
