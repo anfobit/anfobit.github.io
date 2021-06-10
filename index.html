@@ -5,7 +5,8 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Yarvis - Gaming Community</title>
-	<meta name="description" content="Simple and easy way to hang out with the community of your interest. Chat with your friends you follow. Post some photos, ask question or create polls in the community">
+	<meta name="description"
+		content="Simple and easy way to hang out with the community of your interest. Chat with your friends you follow. Post some photos, ask question or create polls in the community">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!--===============================================================================================-->
@@ -78,8 +79,8 @@
 				</div>
 			</div>
 
-			<button class="flex-c-m s1-txt2 size3 how-btn" data-toggle="modal" data-target="#subscribe">
-				Follow us for update now!
+			<button class="flex-c-m s1-txt2 size3 how-btn" data-toggle="modal" data-target="#download">
+				Download
 			</button>
 		</div>
 
@@ -184,7 +185,13 @@
 	</script>
 	<script defer="" src="./Coming Soon 4_files/beacon.min.js"
 		data-cf-beacon="{&quot;rayId&quot;:&quot;65d017504ab723b0&quot;,&quot;token&quot;:&quot;cd0b4b3a733644fc843ef0b185f98241&quot;,&quot;version&quot;:&quot;2021.5.2&quot;,&quot;si&quot;:10}"></script>
-
+	<script>
+		$('#download').on('show.bs.modal', function (e) {
+			e.preventDefault();
+			window.open('https://play.google.com/store/apps/details?id=net.yarvis.milkomeda');
+			window.open('https://apps.apple.com/id/app/yarvis-gaming-community/id1554723604');
+		})
+	</script>
 </body>
 
 </html>
