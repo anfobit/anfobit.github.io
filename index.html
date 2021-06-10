@@ -79,8 +79,8 @@
 				</div>
 			</div>
 
-			<button class="flex-c-m s1-txt2 size3 how-btn" data-toggle="modal" data-target="#download">
-				Download
+			<button class="flex-c-m s1-txt2 size3 how-btn download" data-toggle="modal" data-target="#download">
+				DOWNLOAD
 			</button>
 		</div>
 
@@ -186,11 +186,13 @@
 	<script defer="" src="./Coming Soon 4_files/beacon.min.js"
 		data-cf-beacon="{&quot;rayId&quot;:&quot;65d017504ab723b0&quot;,&quot;token&quot;:&quot;cd0b4b3a733644fc843ef0b185f98241&quot;,&quot;version&quot;:&quot;2021.5.2&quot;,&quot;si&quot;:10}"></script>
 	<script>
-		$('#download').on('show.bs.modal', function (e) {
+		 
+		$(".download").click(function () {
 			e.preventDefault();
 			window.open('https://play.google.com/store/apps/details?id=net.yarvis.milkomeda');
 			window.open('https://apps.apple.com/id/app/yarvis-gaming-community/id1554723604');
-		})
+
+		});
 	</script>
 </body>
 
