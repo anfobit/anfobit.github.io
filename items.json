@@ -1208,7 +1208,7 @@
   {
     "uuid": "69",
     "category": "ca",
-    "name": "Maguu Kishin",
+    "name": "Marionette Core",
     "image": "https://yarvis.net/item/maguu_kishin.png",
     "source": [
       "- Dropped by Maguu kenki"
@@ -1230,6 +1230,135 @@
     "image": "https://yarvis.net/item/gilded_scale.png",
     "source": [
       "- Azhdaha challenge reward"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+  ,
+  {
+    "uuid": "71",
+    "category": "ca",
+    "name": "Perpentual Heart",
+    "image": "https://yarvis.net/item/perpentualv20.png",
+    "source": [
+      "- Dropped by Lv. 30+ Perpetual Mechanical Arrays"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "72",
+    "category": "pa",
+    "name": "Sakura Bloom",
+    "image": "https://yarvis.net/item/sakurabloomv20.png",
+    "source": [
+      "- Found in the wild"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "73",
+    "category": "ma",
+    "name": "Kageuchi Handguard",
+    "image": "https://yarvis.net/item/kageuchihandguardv20.png",
+    "source": [
+      "- Dropped by Lv. 40+ Nobushi"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "74",
+    "category": "ca",
+    "name": "Smoldering Pearl",
+    "image": "https://yarvis.net/item/smolderingpearlv20.png",
+    "source": [
+      "- Dropped by Lv.30+ Pyro Hypostases"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+  ,
+  {
+    "uuid": "75",
+    "category": "pa",
+    "name": "Naku Weed",
+    "image": "https://yarvis.net/item/nakuweedv20.png",
+    "source": [
+      "- Found in the wild"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "76",
+    "category": "pa",
+    "name": "Crystal Marrow",
+    "image": "https://yarvis.net/item/crystalmarrowv20.png",
+    "source": [
+      "- Found in the wild"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "77",
+    "category": "t",
+    "name": "\"Light\"",
+    "image": "https://yarvis.net/item/guidetolightv20.png",
+    "source": [
+      "- Event Shop",
+      "- Obtained as reputation reward"
     ],
     "days": [
       1,
