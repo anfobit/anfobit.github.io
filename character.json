@@ -386,5 +386,41 @@
     "talent": [
        "18", "45", "70"
     ]
+  },
+  {
+    "uuid": "35",
+    "name": "Kamisato Ayaka",
+    "artifact" : "Sword",
+    "image": "https://yarvis.net/item/ayaka_face_70.png",
+    "ascension": [
+       "3", "71", "72", "73"
+    ],
+    "talent": [
+       "77", "73", "65"
+    ]
+  },
+  {
+    "uuid": "36",
+    "name": "Yoimiya",
+    "artifact" : "Bow",
+    "image": "https://yarvis.net/item/yoimiya_face_70.png",
+    "ascension": [
+       "7", "74", "75", "38"
+    ],
+    "talent": [
+       "77", "38", "66"
+    ]
+  },
+  {
+    "uuid": "37",
+    "name": "Sayu",
+    "artifact" : "Claymore",
+    "image": "https://yarvis.net/item/sayu_face_70.png",
+    "ascension": [
+       "2", "69", "76", "47"
+    ],
+    "talent": [
+       "77", "47", "70"
+    ]
   }
 ]
