@@ -396,7 +396,7 @@
        "3", "71", "72", "73"
     ],
     "talent": [
-       "77", "73", "65"
+       "88", "73", "65"
     ]
   },
   {
@@ -408,7 +408,7 @@
        "7", "74", "75", "38"
     ],
     "talent": [
-       "77", "38", "66"
+       "84", "38", "66"
     ]
   },
   {
@@ -421,6 +421,66 @@
     ],
     "talent": [
        "77", "47", "70"
+    ]
+  },
+  {
+    "uuid": "38",
+    "name": "Raiden Shogun",
+    "artifact" : "Polearm",
+    "image": "https://yarvis.net/item/shougun_face_70.png",
+    "ascension": [
+       "4", "78", "79", "73"
+    ],
+    "talent": [
+       "77", "73", "80"
+    ]
+  },
+  {
+    "uuid": "39",
+    "name": "Kokomi",
+    "artifact" : "Catalyst",
+    "image": "https://yarvis.net/item/kokomi_face_70.png",
+    "ascension": [
+       "6", "81", "82", "83"
+    ],
+    "talent": [
+       "84", "83", "85"
+    ]
+  },
+  {
+    "uuid": "40",
+    "name": "Thoma",
+    "artifact" : "Polearm",
+    "image": "https://yarvis.net/item/thoma_face_70.png",
+    "ascension": [
+       "7", "74", "86", "45"
+    ],
+    "talent": [
+       "84", "45", "85"
+    ]
+  },
+  {
+    "uuid": "41",
+    "name": "Kujou Sara",
+    "artifact" : "Bow",
+    "image": "https://yarvis.net/item/sara_face_70.png",
+    "ascension": [
+       "4", "78", "87", "36"
+    ],
+    "talent": [
+       "88", "36", "89"
+    ]
+  },
+  {
+    "uuid": "42",
+    "name": "Aloy",
+    "artifact" : "Bow",
+    "image": "https://yarvis.net/item/aloy_face_70.png",
+    "ascension": [
+       "3", "67", "76", "83"
+    ],
+    "talent": [
+       "14", "83", "80"
     ]
   }
 ]

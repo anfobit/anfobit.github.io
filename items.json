@@ -1358,7 +1358,221 @@
     "image": "https://yarvis.net/item/guidetolightv20.png",
     "source": [
       "- Event Shop",
-      "- Obtained as reputation reward"
+      "- Obtained as reputation reward",
+      "- Domain Violet Court"
+    ],
+    "days": [
+      
+      3,
+      
+      5,
+     
+      7
+    ]
+  },
+  {
+    "uuid": "78",
+    "category": "ca",
+    "name": "Storm Beads",
+    "image": "https://yarvis.net/item/Storm_Beads.png",
+    "source": [
+      "- Dropped by Lv.30+ Thunder Manifestations"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "79",
+    "category": "pa",
+    "name": "Amakumo Fruit",
+    "image": "https://yarvis.net/item/Amakumo_Fruit.png",
+    "source": [
+      "- Found in then wild",
+      "- Found on seirai island"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "80",
+    "category": "t",
+    "name": "Molten Moment",
+    "image": "https://yarvis.net/item/Molten_Moment.png",
+    "source": [
+      "- Lv 70+ Signora Challenge Reward" 
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "81",
+    "category": "ca",
+    "name": "Dew of Repudiation",
+    "image": "https://yarvis.net/item/Dew_of_Repudiation.png",
+    "source": [
+      "- Lv 30+ Hydro Hypostases" 
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "82",
+    "category": "pa",
+    "name": "Sango Pearl",
+    "image": "https://yarvis.net/item/Sango_Pearl.png",
+    "source": [
+      "- Found in then wild",
+      "- Found on watatsumi island"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "83",
+    "category": "ma",
+    "name": "Spectral Husk",
+    "image": "https://yarvis.net/item/Spectral_Husk.png",
+    "source": [
+      "- Dropped by specters" 
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "84",
+    "category": "t",
+    "name": "\"Transience\"",
+    "image": "https://yarvis.net/item/Guide_to_Transience.png",
+    "source": [
+      "- Domain Violet Court" 
+    ],
+    "days": [
+      1,
+      4,
+      7
+    ]
+  },
+  {
+    "uuid": "85",
+    "category": "t",
+    "name": "Hellfire Butterfly",
+    "image": "https://yarvis.net/item/Hellfire_Butterfly.png",
+    "source": [
+      "- Lv 70+ Signora Challenge Reward" 
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "86",
+    "category": "pa",
+    "name": "Fluorescent Fungus",
+    "image": "https://yarvis.net/item/Fluorescent_Fungus.png",
+    "source": [
+      "- Found in then wild",
+      "- Found on Tsurumi island"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "87",
+    "category": "pa",
+    "name": "Dendrobium",
+    "image": "https://yarvis.net/item/Dendrobium.png",
+    "source": [
+      "- Found in then wild",
+      "- Found on Nazuchi Beach"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "88",
+    "category": "t",
+    "name": "\"Elegance\"",
+    "image": "https://yarvis.net/item/Elegance.png",
+    "source": [
+      "- Domain Violet Court" 
+    ],
+    "days": [
+       
+      2,
+      
+      5, 
+      7
+    ]
+  },
+  {
+    "uuid": "89",
+    "category": "t",
+    "name": "Ashen Heart",
+    "image": "https://yarvis.net/item/Ashen_Heart.png",
+    "source": [
+      "- Lv 70+ Signora Challenge Reward" 
     ],
     "days": [
       1,
