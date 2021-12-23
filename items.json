@@ -1583,5 +1583,43 @@
       6,
       7
     ]
+  },
+  {
+    "uuid": "90",
+    "category": "ma",
+    "name": "Riftborn Regalia",
+    "image": "https://yarvis.net/item/Riftborn_Regalia.png",
+    "source": [
+      "- Dropped by Lv. 30+ Golden Wolflords" 
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "uuid": "91",
+    "category": "pa",
+    "name": "Onikabuto",
+    "image": "https://yarvis.net/item/Onikabuto.png",
+    "source": [
+      "- Found in the wild" ,
+      "- Found on Narukami Island",
+      "- Found in Tatarasuna"
+    ],
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
   }
 ]
