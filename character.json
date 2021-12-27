@@ -391,7 +391,7 @@
     "uuid": "35",
     "name": "Kamisato Ayaka",
     "artifact" : "Sword",
-    "image": "https://yarvis.net/item/ayaka_face_70.png",
+    "image": "https://yarvis.net/item/ayaka_face.png",
     "ascension": [
        "3", "71", "72", "73"
     ],
@@ -403,7 +403,7 @@
     "uuid": "36",
     "name": "Yoimiya",
     "artifact" : "Bow",
-    "image": "https://yarvis.net/item/yoimiya_face_70.png",
+    "image": "https://yarvis.net/item/yoimiya_face.png",
     "ascension": [
        "7", "74", "75", "38"
     ],
@@ -415,7 +415,7 @@
     "uuid": "37",
     "name": "Sayu",
     "artifact" : "Claymore",
-    "image": "https://yarvis.net/item/sayu_face_70.png",
+    "image": "https://yarvis.net/item/sayu_face.png",
     "ascension": [
        "2", "69", "76", "47"
     ],
@@ -439,7 +439,7 @@
     "uuid": "39",
     "name": "Kokomi",
     "artifact" : "Catalyst",
-    "image": "https://yarvis.net/item/kokomi_face_70.png",
+    "image": "https://yarvis.net/item/kokomi_face.png",
     "ascension": [
        "6", "81", "82", "83"
     ],
@@ -451,7 +451,7 @@
     "uuid": "40",
     "name": "Thoma",
     "artifact" : "Polearm",
-    "image": "https://yarvis.net/item/thoma_face_70.png",
+    "image": "https://yarvis.net/item/thoma_face.png",
     "ascension": [
        "7", "74", "86", "45"
     ],
@@ -463,7 +463,7 @@
     "uuid": "41",
     "name": "Kujou Sara",
     "artifact" : "Bow",
-    "image": "https://yarvis.net/item/sara_face_70.png",
+    "image": "https://yarvis.net/item/sara_face.png",
     "ascension": [
        "4", "78", "87", "36"
     ],
@@ -475,7 +475,7 @@
     "uuid": "42",
     "name": "Aloy",
     "artifact" : "Bow",
-    "image": "https://yarvis.net/item/aloy_face_70.png",
+    "image": "https://yarvis.net/item/aloy_face.png",
     "ascension": [
        "3", "67", "76", "83"
     ],
@@ -499,7 +499,7 @@
     "uuid": "44",
     "name": "Shenhe",
     "artifact" : "Polearm",
-    "image": "https://yarvis.net/item/shenhe_face_70.png",
+    "image": "https://yarvis.net/item/shenhe_face.png",
     "ascension": [
        "3", "92", "58", "47"
     ],
@@ -511,7 +511,7 @@
     "uuid": "45",
     "name": "Yun Jin",
     "artifact" : "Polearm",
-    "image": "https://yarvis.net/item/yunjin_face_70.png",
+    "image": "https://yarvis.net/item/yunjin_face.png",
     "ascension": [
        "5", "90", "62", "36"
     ],
