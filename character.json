@@ -427,7 +427,7 @@
     "uuid": "38",
     "name": "Raiden Shogun",
     "artifact" : "Polearm",
-    "image": "https://yarvis.net/item/shougun_face_70.png",
+    "image": "https://yarvis.net/item/shougun_face.png",
     "ascension": [
        "4", "78", "79", "73"
     ],
@@ -517,6 +517,18 @@
     ],
     "talent": [
        "18", "36", "89"
+    ]
+  },
+  {
+    "uuid": "46",
+    "name": "Gorou",
+    "artifact" : "Bow",
+    "image": "https://yarvis.net/item/gorou_face.png",
+    "ascension": [
+       "5", "71", "82", "83"
+    ],
+    "talent": [
+       "77", "83", "80"
     ]
   }
 ]
