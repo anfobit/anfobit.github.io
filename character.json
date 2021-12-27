@@ -494,5 +494,29 @@
     "talent": [
        "88", "35", "89"
     ]
+  },
+  {
+    "uuid": "44",
+    "name": "Shenhe",
+    "artifact" : "Polearm",
+    "image": "https://yarvis.net/item/shenhe_face_70.png",
+    "ascension": [
+       "3", "92", "58", "47"
+    ],
+    "talent": [
+      "17", "47", "85"
+    ]
+  },
+  {
+    "uuid": "45",
+    "name": "Yun Jin",
+    "artifact" : "Polearm",
+    "image": "https://yarvis.net/item/yunjin_face_70.png",
+    "ascension": [
+       "5", "90", "62", "36"
+    ],
+    "talent": [
+       "18", "36", "89"
+    ]
   }
 ]
