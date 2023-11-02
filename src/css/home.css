@@ -1,6 +1,5 @@
 :root{
     --content-width : clamp(128px, 100%, 960px);
-    --app-height : 100%;
 }
 
 
@@ -31,8 +30,8 @@ a {
 
 #outer-wrapper {
     overflow: auto;
-    height: 100vh;
-    height: var(--app-height);
+    height: 100%;
+    height: -webkit-fill-available;
 
 }
 

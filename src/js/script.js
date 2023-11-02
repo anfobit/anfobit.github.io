@@ -13,10 +13,3 @@ function loadHTMLFile(url, targetElement) {
 loadHTMLFile('/src/item/header.html', document.getElementById('navbar'));
 loadHTMLFile('/src/item/footer.html', document.getElementById('footer'));
 
-
-const appHeight = () => {
- const doc = document.documentElement
- doc.style.setProperty(‘ -- app-height’, '${window.innerHeight}px')
-}
-window.addEventListener(‘resize’, appHeight)
-appHeight()
