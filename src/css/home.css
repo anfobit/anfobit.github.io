@@ -1,0 +1,167 @@
+:root{
+    --content-width : clamp(128px, 100%, 960px);
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    overflow: hidden;
+}
+
+footer {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    display: flex;
+    align-items: center;
+    position: relative;
+    width: 100%;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.fau * a{
+    text-decoration: underline;
+}
+
+#outer-wrapper {
+    overflow: auto;
+    height: 100vh;
+
+}
+
+#navbar {
+    position: fixed;
+    left: 0;
+    width: 100%;
+    z-index: 100;
+    margin: 0;
+    padding: 8px 64px;
+    background-color: rgba(40, 40, 40, 0.95);
+}
+
+
+#page-title {
+    font-size: 2.5em;
+    color: #ffff;
+}
+
+
+#footer {
+    width: 100%;
+    margin-bottom: 32px;
+    font-size: 0.8em;
+}
+
+
+#bottom-nav {
+    text-align: center;
+    margin: 8px auto;
+}
+
+#bottom-nav a {
+    color: white;
+    display: inline-block;
+    margin: 0 10px;
+    padding: 10px 5px;
+}
+
+#bottom-nav a:hover {
+    text-decoration: underline;
+}
+
+
+.navbar-space{
+    height: 64px;
+}
+
+
+.f1 {
+    font-size: 2.5em;
+    font-weight: bolder;
+    margin-bottom: 0.5em;
+}
+
+.f2 {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+}
+
+.f3 {
+    font-size: 1em;
+}
+
+.feature_graphic {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+}
+
+
+.centered-content {
+    width: calc(var(--content-width) - 32px);
+    margin: 2em auto;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.list-container {
+    display: flex;
+    padding: 16px;
+    background-color: rgb(251, 251, 251);
+    border-radius: 16px;
+    margin-bottom: 16px;
+}
+
+
+.list-container:hover {
+    background-color: rgb(243, 243, 243);
+    transition: 150ms;
+}
+
+
+.list-icon {
+    aspect-ratio: 1;
+    max-height: 128px;
+    float: left;
+    object-fit: cover;
+    border-radius: 5%;
+}
+
+.list-description {
+    display: block;
+    margin-left: 24px;
+}
+
+.list-text {
+    font-size: 1em;
+}
+
+
+.external-link{
+    display: flex;
+    float: left;
+    padding: 16px 8px;
+    text-decoration: underline;
+    color: black;
+    font-weight: bolder;
+}
+
+
+.bottom-nav {
+    display: block;
+}
+
+
+.copyright {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin-top: 30px;
+}
