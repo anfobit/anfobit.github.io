@@ -117,6 +117,7 @@ a {
         width: auto; /* Adjust width as needed, 'auto' respects image's aspect ratio */
         height: auto; /* Adjust height as needed */
         max-height: 100vh; /* Ensures image doesn't exceed viewport height */
+        object-fit: contain;
     }
 }
 
