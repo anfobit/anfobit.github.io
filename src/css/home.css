@@ -95,10 +95,21 @@ a {
     font-size: 1em;
 }
 
+/* Default styling */
 .feature_graphic {
     width: 100vw;
     height: 100vh;
     object-fit: cover;
+}
+
+/* Media query for screens where height is greater than width */
+@media screen and (orientation: portrait) {
+    .feature_graphic {
+        /* Adjust these properties as needed */
+        width: auto; /* Adjust width as needed, 'auto' respects image's aspect ratio */
+        height: auto; /* Adjust height as needed */
+        max-height: 100vh; /* Ensures image doesn't exceed viewport height */
+    }
 }
 
 
