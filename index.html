@@ -1,67 +1,95 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="Cache-Control" content="no-store" />
-    <link rel="stylesheet" type="text/css" href="/src/css/home.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Yarvis is an independent studio crafting playful mobile games and community apps.">
+    <meta property="og:title" content="Yarvis">
+    <meta property="og:description" content="Yarvis is an independent studio crafting playful mobile games and community apps.">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="/src/img/feature_graphic.png">
+    <link rel="stylesheet" type="text/css" href="/src/css/style.css">
     <link href="/src/img/favicon.ico" rel="icon">
     <title>Home | Yarvis</title>
 </head>
 
 <body>
-    <div id="outer-wrapper">
-        <header id="navbar">
-            <a id="page-title" href="/">Yarvis</a>
-        </header>
-        <main>
-            <section>
-                <img class="feature_graphic" src="/src/img/feature_graphic.png" />
-            </section>
-            <section class="centered-content fau">
+    <header class="site-header">
+        <div class="header-inner">
+            <a class="wordmark" href="/">Yarvis</a>
+            <nav class="site-nav">
+                <a href="/#products">Products</a>
+                <a href="/#about">About</a>
+            </nav>
+        </div>
+    </header>
 
-                <div class="f1">Our Products</div>
-                <div class="list-container">
-                    <img class="list-icon" src="/src/img/appicon-bubble-thunder.png" />
-                    <div class="list-description">
-                        <div class="f2">Zen Bubble Zone</div>
-                        <div class="list-text f3">Match 3 puzzle game</div>
-                        <div>
-                            <a class="external-link" href="#">Ios</a>
-                            <a class="external-link" href="https://play.google.com/store/apps/details?id=net.yarvis.bubble">Android</a>
+    <main>
+        <section class="hero">
+            <div class="container">
+                <h1>We craft playful mobile experiences</h1>
+                <p class="tagline">Games and community apps made with care, from a small independent studio.</p>
+                <a class="button" href="#products">See our products</a>
+            </div>
+            <div class="hero-image">
+                <img src="/src/img/feature_graphic.png" alt="Zen Bubble Zone artwork">
+            </div>
+        </section>
+
+        <section id="products" class="section">
+            <div class="container">
+                <h2 class="section-title">Our Products</h2>
+                <p class="section-lead">Available on mobile — pick one up and start playing.</p>
+                <div class="product-grid">
+                    <div class="product-card">
+                        <img class="product-icon" src="/src/img/appicon-bubble-thunder.png" alt="Zen Bubble Zone app icon">
+                        <h3>Zen Bubble Zone</h3>
+                        <p>A relaxing match-3 puzzle game. Pop bubbles, clear the board, and find your zen.</p>
+                        <div class="store-links">
+                            <a class="store-link" target="_blank" rel="noopener"
+                                href="https://play.google.com/store/apps/details?id=net.yarvis.bubble">Google Play</a>
+                            <span class="store-soon">App Store coming soon</span>
+                        </div>
+                    </div>
+                    <div class="product-card">
+                        <img class="product-icon" src="/src/img/appicon-yarvis.jpg" alt="Yarvis Community app icon">
+                        <h3>Yarvis Community</h3>
+                        <p>A new way to engage with any community in the world — connect, chat, and play together.</p>
+                        <div class="store-links">
+                            <a class="store-link" target="_blank" rel="noopener"
+                                href="https://play.google.com/store/apps/details?id=net.yarvis.milkomeda">Google Play</a>
+                            <span class="store-soon">App Store coming soon</span>
                         </div>
                     </div>
                 </div>
+            </div>
+        </section>
 
-                <div class="list-container">
-                    <img class="list-icon" src="/src/img/appicon-yarvis.jpg" />
-                    <div class="list-description">
-                        <div class="f2">Yarvis Community</div>
-                        <div class="list-text f3">New way to engage with any communities in the world</div>
-                        <div>
-                            <a target="_blank" class="external-link"
-                                href="https://apps.apple.com/id/app/yarvis-gaming-community/id1554723604">Ios</a>
-                            <a target="_blank" class="external-link"
-                                href="https://play.google.com/store/apps/details?id=net.yarvis.milkomeda">Android</a>
-                        </div>
-                    </div>
+        <section id="about" class="section">
+            <div class="container">
+                <h2 class="section-title">About Us</h2>
+                <div class="about-card">
+                    <p>Yarvis is a small independent studio building mobile games and community apps. We believe great
+                        experiences come from simple ideas executed with care — whether that's a calming puzzle game or
+                        a place for communities to come together.</p>
+                    <p>Have a question or suggestion? Reach us at <a href="mailto:net.yarvis@gmail.com">net.yarvis@gmail.com</a>.</p>
                 </div>
+            </div>
+        </section>
+    </main>
 
-
-            </section>
-        </main>
-        <footer>
-            <section id="footer">
-                <div id="bottom-nav">
-                    <a href="/">Home</a>
-                    <a href="#">About Us</a>
-                    <a href="/about/privacy">Privacy Policy</a>
-                    <a href="/about/user-agreement">Terms of Service</a>
-                </div>
-                <div class="copyright">Copyright © YARVIS. All Rights Reserved.</div>
-            </section>
-        </footer>
-    </div>
+    <footer class="site-footer">
+        <div class="footer-inner">
+            <nav class="footer-nav">
+                <a href="/">Home</a>
+                <a href="/#about">About Us</a>
+                <a href="/about/privacy">Privacy Policy</a>
+                <a href="/about/user-agreement">Terms of Service</a>
+            </nav>
+            <p class="copyright">Copyright © Yarvis. All Rights Reserved.</p>
+        </div>
+    </footer>
 </body>
 
 </html>
